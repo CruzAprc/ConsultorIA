@@ -1,0 +1,2054 @@
+[
+  {
+    "nome": "Frango grelhado",
+    "grupo": "proteina",
+    "kcal_100g": 159,
+    "prot_100g": 32.0,
+    "carb_100g": 0,
+    "gord_100g": 2.5,
+    "medida_caseira": "1 filé médio",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Carne bovina magra (patinho)",
+    "grupo": "proteina",
+    "kcal_100g": 133,
+    "prot_100g": 26.7,
+    "carb_100g": 0,
+    "gord_100g": 3.2,
+    "medida_caseira": "1 bife médio",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Filé mignon",
+    "grupo": "proteina",
+    "kcal_100g": 143,
+    "prot_100g": 28.0,
+    "carb_100g": 0,
+    "gord_100g": 3.5,
+    "medida_caseira": "1 bife médio",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Carne moída magra",
+    "grupo": "proteina",
+    "kcal_100g": 164,
+    "prot_100g": 26.0,
+    "carb_100g": 0,
+    "gord_100g": 6.5,
+    "medida_caseira": "1 concha",
+    "gramas_medida": 120,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Coxão mole",
+    "grupo": "proteina",
+    "kcal_100g": 169,
+    "prot_100g": 27.0,
+    "carb_100g": 0,
+    "gord_100g": 6.5,
+    "medida_caseira": "1 bife médio",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Acém",
+    "grupo": "proteina",
+    "kcal_100g": 137,
+    "prot_100g": 26.0,
+    "carb_100g": 0,
+    "gord_100g": 3.8,
+    "medida_caseira": "1 bife médio",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Fígado bovino",
+    "grupo": "proteina",
+    "kcal_100g": 150,
+    "prot_100g": 25.0,
+    "carb_100g": 4.0,
+    "gord_100g": 3.7,
+    "medida_caseira": "1 bife",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Tilápia grelhada",
+    "grupo": "proteina",
+    "kcal_100g": 128,
+    "prot_100g": 26.0,
+    "carb_100g": 0,
+    "gord_100g": 2.5,
+    "medida_caseira": "1 filé",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Salmão grelhado",
+    "grupo": "proteina",
+    "kcal_100g": 208,
+    "prot_100g": 22.0,
+    "carb_100g": 0,
+    "gord_100g": 13.0,
+    "medida_caseira": "1 posta",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Atum enlatado (em água)",
+    "grupo": "proteina",
+    "kcal_100g": 116,
+    "prot_100g": 25.5,
+    "carb_100g": 0,
+    "gord_100g": 1.0,
+    "medida_caseira": "1 lata",
+    "gramas_medida": 110,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Peito de peru",
+    "grupo": "proteina",
+    "kcal_100g": 110,
+    "prot_100g": 22.0,
+    "carb_100g": 1.5,
+    "gord_100g": 1.5,
+    "medida_caseira": "3 fatias",
+    "gramas_medida": 50,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Ovos inteiros",
+    "grupo": "proteina",
+    "kcal_100g": 143,
+    "prot_100g": 13.0,
+    "carb_100g": 0.7,
+    "gord_100g": 9.5,
+    "medida_caseira": "2 unidades",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Clara de ovo",
+    "grupo": "proteina",
+    "kcal_100g": 52,
+    "prot_100g": 11.0,
+    "carb_100g": 0.7,
+    "gord_100g": 0.2,
+    "medida_caseira": "3 claras",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Queijo branco (minas frescal)",
+    "grupo": "proteina",
+    "kcal_100g": 264,
+    "prot_100g": 17.4,
+    "carb_100g": 3.2,
+    "gord_100g": 20.2,
+    "medida_caseira": "2 fatias",
+    "gramas_medida": 40,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Queijo cottage",
+    "grupo": "proteina",
+    "kcal_100g": 98,
+    "prot_100g": 12.0,
+    "carb_100g": 3.4,
+    "gord_100g": 4.3,
+    "medida_caseira": "2 col. sopa",
+    "gramas_medida": 40,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Queijo muçarela",
+    "grupo": "proteina",
+    "kcal_100g": 330,
+    "prot_100g": 22.0,
+    "carb_100g": 3.0,
+    "gord_100g": 25.0,
+    "medida_caseira": "2 fatias",
+    "gramas_medida": 40,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Ricota",
+    "grupo": "proteina",
+    "kcal_100g": 140,
+    "prot_100g": 12.6,
+    "carb_100g": 4.0,
+    "gord_100g": 8.0,
+    "medida_caseira": "2 fatias",
+    "gramas_medida": 40,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Carne suína magra (lombo)",
+    "grupo": "proteina",
+    "kcal_100g": 164,
+    "prot_100g": 27.0,
+    "carb_100g": 0,
+    "gord_100g": 6.0,
+    "medida_caseira": "1 bife",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Proteína de soja texturizada",
+    "grupo": "proteina",
+    "kcal_100g": 336,
+    "prot_100g": 46.0,
+    "carb_100g": 31.0,
+    "gord_100g": 1.5,
+    "medida_caseira": "1/2 xíc. hidratada",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Tofu firme",
+    "grupo": "proteina",
+    "kcal_100g": 76,
+    "prot_100g": 8.0,
+    "carb_100g": 1.9,
+    "gord_100g": 4.8,
+    "medida_caseira": "1 fatia grossa",
+    "gramas_medida": 120,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Whey Protein concentrado",
+    "grupo": "suplemento",
+    "kcal_100g": 370,
+    "prot_100g": 75.0,
+    "carb_100g": 8.0,
+    "gord_100g": 5.0,
+    "medida_caseira": "1 scoop",
+    "gramas_medida": 30,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Whey Protein isolado",
+    "grupo": "suplemento",
+    "kcal_100g": 380,
+    "prot_100g": 85.0,
+    "carb_100g": 3.0,
+    "gord_100g": 1.5,
+    "medida_caseira": "1 scoop",
+    "gramas_medida": 30,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Arroz branco cozido",
+    "grupo": "carboidrato",
+    "kcal_100g": 128,
+    "prot_100g": 2.5,
+    "carb_100g": 28.1,
+    "gord_100g": 0.2,
+    "medida_caseira": "4 col. sopa",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Arroz integral cozido",
+    "grupo": "carboidrato",
+    "kcal_100g": 124,
+    "prot_100g": 2.6,
+    "carb_100g": 25.8,
+    "gord_100g": 1.0,
+    "medida_caseira": "4 col. sopa",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Batata doce cozida",
+    "grupo": "carboidrato",
+    "kcal_100g": 77,
+    "prot_100g": 0.6,
+    "carb_100g": 18.4,
+    "gord_100g": 0.1,
+    "medida_caseira": "1 unid. média",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Batata inglesa cozida",
+    "grupo": "carboidrato",
+    "kcal_100g": 52,
+    "prot_100g": 1.2,
+    "carb_100g": 11.9,
+    "gord_100g": 0.1,
+    "medida_caseira": "1 unid. média",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Mandioca cozida",
+    "grupo": "carboidrato",
+    "kcal_100g": 125,
+    "prot_100g": 0.6,
+    "carb_100g": 30.1,
+    "gord_100g": 0.3,
+    "medida_caseira": "3 pedaços",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Macarrão cozido",
+    "grupo": "carboidrato",
+    "kcal_100g": 136,
+    "prot_100g": 4.5,
+    "carb_100g": 27.0,
+    "gord_100g": 0.5,
+    "medida_caseira": "1 prato raso",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Macarrão integral cozido",
+    "grupo": "carboidrato",
+    "kcal_100g": 130,
+    "prot_100g": 5.0,
+    "carb_100g": 25.0,
+    "gord_100g": 1.0,
+    "medida_caseira": "1 prato raso",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Pão integral",
+    "grupo": "carboidrato",
+    "kcal_100g": 253,
+    "prot_100g": 9.4,
+    "carb_100g": 43.0,
+    "gord_100g": 4.2,
+    "medida_caseira": "2 fatias",
+    "gramas_medida": 60,
+    "tags": [
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Pão francês",
+    "grupo": "carboidrato",
+    "kcal_100g": 300,
+    "prot_100g": 8.0,
+    "carb_100g": 58.6,
+    "gord_100g": 3.1,
+    "medida_caseira": "1 unidade",
+    "gramas_medida": 50,
+    "tags": [
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Tapioca (goma)",
+    "grupo": "carboidrato",
+    "kcal_100g": 345,
+    "prot_100g": 0.1,
+    "carb_100g": 86.0,
+    "gord_100g": 0.1,
+    "medida_caseira": "3 col. sopa",
+    "gramas_medida": 50,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Aveia em flocos",
+    "grupo": "carboidrato",
+    "kcal_100g": 394,
+    "prot_100g": 14.0,
+    "carb_100g": 66.6,
+    "gord_100g": 8.5,
+    "medida_caseira": "3 col. sopa",
+    "gramas_medida": 40,
+    "tags": [
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Granola sem açúcar",
+    "grupo": "carboidrato",
+    "kcal_100g": 421,
+    "prot_100g": 10.0,
+    "carb_100g": 65.0,
+    "gord_100g": 15.0,
+    "medida_caseira": "2 col. sopa",
+    "gramas_medida": 30,
+    "tags": [
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Cuscuz de milho",
+    "grupo": "carboidrato",
+    "kcal_100g": 113,
+    "prot_100g": 2.0,
+    "carb_100g": 25.0,
+    "gord_100g": 0.3,
+    "medida_caseira": "1 fatia",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Quinoa cozida",
+    "grupo": "carboidrato",
+    "kcal_100g": 120,
+    "prot_100g": 4.4,
+    "carb_100g": 21.3,
+    "gord_100g": 1.9,
+    "medida_caseira": "4 col. sopa",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Feijão carioca cozido",
+    "grupo": "leguminosa",
+    "kcal_100g": 76,
+    "prot_100g": 4.8,
+    "carb_100g": 13.6,
+    "gord_100g": 0.5,
+    "medida_caseira": "1 concha",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Feijão preto cozido",
+    "grupo": "leguminosa",
+    "kcal_100g": 77,
+    "prot_100g": 4.5,
+    "carb_100g": 14.0,
+    "gord_100g": 0.5,
+    "medida_caseira": "1 concha",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Lentilha cozida",
+    "grupo": "leguminosa",
+    "kcal_100g": 93,
+    "prot_100g": 6.3,
+    "carb_100g": 16.3,
+    "gord_100g": 0.5,
+    "medida_caseira": "1 concha",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Grão-de-bico cozido",
+    "grupo": "leguminosa",
+    "kcal_100g": 164,
+    "prot_100g": 8.9,
+    "carb_100g": 27.4,
+    "gord_100g": 2.6,
+    "medida_caseira": "1 concha",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Ervilha cozida",
+    "grupo": "leguminosa",
+    "kcal_100g": 63,
+    "prot_100g": 4.9,
+    "carb_100g": 10.0,
+    "gord_100g": 0.5,
+    "medida_caseira": "2 col. sopa",
+    "gramas_medida": 60,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Banana prata",
+    "grupo": "fruta",
+    "kcal_100g": 98,
+    "prot_100g": 1.3,
+    "carb_100g": 26.0,
+    "gord_100g": 0.1,
+    "medida_caseira": "1 unid. média",
+    "gramas_medida": 80,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Maçã",
+    "grupo": "fruta",
+    "kcal_100g": 56,
+    "prot_100g": 0.3,
+    "carb_100g": 15.2,
+    "gord_100g": 0.0,
+    "medida_caseira": "1 unidade",
+    "gramas_medida": 130,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Mamão formosa",
+    "grupo": "fruta",
+    "kcal_100g": 45,
+    "prot_100g": 0.8,
+    "carb_100g": 11.6,
+    "gord_100g": 0.1,
+    "medida_caseira": "1 fatia",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Morango",
+    "grupo": "fruta",
+    "kcal_100g": 30,
+    "prot_100g": 0.9,
+    "carb_100g": 6.8,
+    "gord_100g": 0.3,
+    "medida_caseira": "8 unidades",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Melão",
+    "grupo": "fruta",
+    "kcal_100g": 29,
+    "prot_100g": 0.7,
+    "carb_100g": 7.5,
+    "gord_100g": 0.0,
+    "medida_caseira": "1 fatia",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Melancia",
+    "grupo": "fruta",
+    "kcal_100g": 33,
+    "prot_100g": 0.9,
+    "carb_100g": 8.1,
+    "gord_100g": 0.0,
+    "medida_caseira": "1 fatia",
+    "gramas_medida": 200,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Laranja",
+    "grupo": "fruta",
+    "kcal_100g": 37,
+    "prot_100g": 1.0,
+    "carb_100g": 8.9,
+    "gord_100g": 0.1,
+    "medida_caseira": "1 unidade",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Pera",
+    "grupo": "fruta",
+    "kcal_100g": 53,
+    "prot_100g": 0.6,
+    "carb_100g": 14.0,
+    "gord_100g": 0.1,
+    "medida_caseira": "1 unidade",
+    "gramas_medida": 130,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Uva",
+    "grupo": "fruta",
+    "kcal_100g": 53,
+    "prot_100g": 0.7,
+    "carb_100g": 13.7,
+    "gord_100g": 0.2,
+    "medida_caseira": "1 cacho pequeno",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Abacaxi",
+    "grupo": "fruta",
+    "kcal_100g": 48,
+    "prot_100g": 0.9,
+    "carb_100g": 12.3,
+    "gord_100g": 0.1,
+    "medida_caseira": "2 fatias",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Manga",
+    "grupo": "fruta",
+    "kcal_100g": 64,
+    "prot_100g": 0.4,
+    "carb_100g": 16.7,
+    "gord_100g": 0.3,
+    "medida_caseira": "1/2 unidade",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Abacate",
+    "grupo": "gordura",
+    "kcal_100g": 96,
+    "prot_100g": 1.2,
+    "carb_100g": 6.0,
+    "gord_100g": 8.4,
+    "medida_caseira": "2 col. sopa",
+    "gramas_medida": 50,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Azeite de oliva",
+    "grupo": "gordura",
+    "kcal_100g": 884,
+    "prot_100g": 0,
+    "carb_100g": 0,
+    "gord_100g": 100.0,
+    "medida_caseira": "1 col. sopa",
+    "gramas_medida": 10,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Pasta de amendoim",
+    "grupo": "gordura",
+    "kcal_100g": 593,
+    "prot_100g": 25.0,
+    "carb_100g": 20.0,
+    "gord_100g": 46.0,
+    "medida_caseira": "1 col. sopa",
+    "gramas_medida": 20,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Castanha de caju",
+    "grupo": "gordura",
+    "kcal_100g": 570,
+    "prot_100g": 18.5,
+    "carb_100g": 30.0,
+    "gord_100g": 43.8,
+    "medida_caseira": "1 punhado",
+    "gramas_medida": 30,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Castanha-do-pará",
+    "grupo": "gordura",
+    "kcal_100g": 643,
+    "prot_100g": 14.5,
+    "carb_100g": 15.1,
+    "gord_100g": 63.5,
+    "medida_caseira": "2 unidades",
+    "gramas_medida": 10,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Amêndoas",
+    "grupo": "gordura",
+    "kcal_100g": 581,
+    "prot_100g": 21.3,
+    "carb_100g": 21.7,
+    "gord_100g": 47.3,
+    "medida_caseira": "10 unidades",
+    "gramas_medida": 20,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Nozes",
+    "grupo": "gordura",
+    "kcal_100g": 620,
+    "prot_100g": 14.0,
+    "carb_100g": 18.0,
+    "gord_100g": 59.0,
+    "medida_caseira": "3 unidades",
+    "gramas_medida": 15,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Amendoim torrado",
+    "grupo": "gordura",
+    "kcal_100g": 589,
+    "prot_100g": 27.2,
+    "carb_100g": 20.3,
+    "gord_100g": 44.0,
+    "medida_caseira": "1 col. sopa",
+    "gramas_medida": 20,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Semente de chia",
+    "grupo": "gordura",
+    "kcal_100g": 486,
+    "prot_100g": 17.0,
+    "carb_100g": 42.0,
+    "gord_100g": 31.0,
+    "medida_caseira": "1 col. sopa",
+    "gramas_medida": 10,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Semente de linhaça",
+    "grupo": "gordura",
+    "kcal_100g": 495,
+    "prot_100g": 14.0,
+    "carb_100g": 43.0,
+    "gord_100g": 32.0,
+    "medida_caseira": "1 col. sopa",
+    "gramas_medida": 10,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Óleo de coco",
+    "grupo": "gordura",
+    "kcal_100g": 862,
+    "prot_100g": 0,
+    "carb_100g": 0,
+    "gord_100g": 100.0,
+    "medida_caseira": "1 col. sopa",
+    "gramas_medida": 10,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Iogurte natural desnatado",
+    "grupo": "laticinio",
+    "kcal_100g": 51,
+    "prot_100g": 4.1,
+    "carb_100g": 6.1,
+    "gord_100g": 0.9,
+    "medida_caseira": "1 pote",
+    "gramas_medida": 200,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Iogurte natural integral",
+    "grupo": "laticinio",
+    "kcal_100g": 61,
+    "prot_100g": 3.5,
+    "carb_100g": 4.7,
+    "gord_100g": 3.3,
+    "medida_caseira": "1 pote",
+    "gramas_medida": 200,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Iogurte grego zero",
+    "grupo": "laticinio",
+    "kcal_100g": 59,
+    "prot_100g": 7.0,
+    "carb_100g": 4.5,
+    "gord_100g": 0.5,
+    "medida_caseira": "1 pote",
+    "gramas_medida": 120,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Leite desnatado",
+    "grupo": "laticinio",
+    "kcal_100g": 35,
+    "prot_100g": 3.4,
+    "carb_100g": 5.0,
+    "gord_100g": 0.1,
+    "medida_caseira": "1 copo",
+    "gramas_medida": 200,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Leite integral",
+    "grupo": "laticinio",
+    "kcal_100g": 58,
+    "prot_100g": 3.0,
+    "carb_100g": 4.5,
+    "gord_100g": 3.1,
+    "medida_caseira": "1 copo",
+    "gramas_medida": 200,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Requeijão light",
+    "grupo": "laticinio",
+    "kcal_100g": 167,
+    "prot_100g": 8.0,
+    "carb_100g": 3.0,
+    "gord_100g": 13.0,
+    "medida_caseira": "1 col. sopa",
+    "gramas_medida": 20,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Brócolis cozido",
+    "grupo": "vegetal",
+    "kcal_100g": 25,
+    "prot_100g": 2.1,
+    "carb_100g": 4.4,
+    "gord_100g": 0.2,
+    "medida_caseira": "4 col. sopa",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Alface",
+    "grupo": "vegetal",
+    "kcal_100g": 14,
+    "prot_100g": 1.3,
+    "carb_100g": 1.7,
+    "gord_100g": 0.2,
+    "medida_caseira": "prato raso",
+    "gramas_medida": 30,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Tomate",
+    "grupo": "vegetal",
+    "kcal_100g": 19,
+    "prot_100g": 1.1,
+    "carb_100g": 3.1,
+    "gord_100g": 0.2,
+    "medida_caseira": "1 unid. média",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Cenoura cozida",
+    "grupo": "vegetal",
+    "kcal_100g": 30,
+    "prot_100g": 0.8,
+    "carb_100g": 6.7,
+    "gord_100g": 0.2,
+    "medida_caseira": "2 col. sopa",
+    "gramas_medida": 50,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Abobrinha refogada",
+    "grupo": "vegetal",
+    "kcal_100g": 15,
+    "prot_100g": 0.8,
+    "carb_100g": 2.6,
+    "gord_100g": 0.3,
+    "medida_caseira": "3 col. sopa",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Couve refogada",
+    "grupo": "vegetal",
+    "kcal_100g": 40,
+    "prot_100g": 2.9,
+    "carb_100g": 5.1,
+    "gord_100g": 1.2,
+    "medida_caseira": "2 col. sopa",
+    "gramas_medida": 50,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Abóbora cozida",
+    "grupo": "vegetal",
+    "kcal_100g": 28,
+    "prot_100g": 0.8,
+    "carb_100g": 6.7,
+    "gord_100g": 0.1,
+    "medida_caseira": "2 col. sopa",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Beterraba cozida",
+    "grupo": "vegetal",
+    "kcal_100g": 32,
+    "prot_100g": 1.2,
+    "carb_100g": 7.2,
+    "gord_100g": 0.1,
+    "medida_caseira": "2 col. sopa",
+    "gramas_medida": 50,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Chuchu cozido",
+    "grupo": "vegetal",
+    "kcal_100g": 17,
+    "prot_100g": 0.4,
+    "carb_100g": 3.8,
+    "gord_100g": 0.1,
+    "medida_caseira": "3 col. sopa",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Couve-flor cozida",
+    "grupo": "vegetal",
+    "kcal_100g": 19,
+    "prot_100g": 1.4,
+    "carb_100g": 3.5,
+    "gord_100g": 0.2,
+    "medida_caseira": "3 col. sopa",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Vagem cozida",
+    "grupo": "vegetal",
+    "kcal_100g": 25,
+    "prot_100g": 1.6,
+    "carb_100g": 4.9,
+    "gord_100g": 0.1,
+    "medida_caseira": "3 col. sopa",
+    "gramas_medida": 60,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Pepino",
+    "grupo": "vegetal",
+    "kcal_100g": 12,
+    "prot_100g": 0.7,
+    "carb_100g": 2.0,
+    "gord_100g": 0.1,
+    "medida_caseira": "1/2 unidade",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Espinafre cozido",
+    "grupo": "vegetal",
+    "kcal_100g": 22,
+    "prot_100g": 2.6,
+    "carb_100g": 2.6,
+    "gord_100g": 0.3,
+    "medida_caseira": "2 col. sopa",
+    "gramas_medida": 50,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Mel",
+    "grupo": "carboidrato",
+    "kcal_100g": 309,
+    "prot_100g": 0.3,
+    "carb_100g": 84.0,
+    "gord_100g": 0,
+    "medida_caseira": "1 col. sopa",
+    "gramas_medida": 20,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Doce de leite",
+    "grupo": "carboidrato",
+    "kcal_100g": 307,
+    "prot_100g": 5.0,
+    "carb_100g": 55.0,
+    "gord_100g": 7.0,
+    "medida_caseira": "1 col. sopa",
+    "gramas_medida": 20,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Chocolate 70%",
+    "grupo": "gordura",
+    "kcal_100g": 528,
+    "prot_100g": 8.0,
+    "carb_100g": 40.0,
+    "gord_100g": 36.0,
+    "medida_caseira": "2 quadrados",
+    "gramas_medida": 20,
+    "tags": [
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Creatina monohidratada",
+    "grupo": "suplemento",
+    "kcal_100g": 0,
+    "prot_100g": 0,
+    "carb_100g": 0,
+    "gord_100g": 0,
+    "medida_caseira": "1 col. chá",
+    "gramas_medida": 5,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Barra de proteína",
+    "grupo": "suplemento",
+    "kcal_100g": 350,
+    "prot_100g": 33.0,
+    "carb_100g": 35.0,
+    "gord_100g": 10.0,
+    "medida_caseira": "1 barra",
+    "gramas_medida": 60,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Hipercalórico",
+    "grupo": "suplemento",
+    "kcal_100g": 380,
+    "prot_100g": 15.0,
+    "carb_100g": 70.0,
+    "gord_100g": 3.0,
+    "medida_caseira": "2 scoops",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Café preto sem açúcar",
+    "grupo": "bebida",
+    "kcal_100g": 1,
+    "prot_100g": 0.2,
+    "carb_100g": 0,
+    "gord_100g": 0,
+    "medida_caseira": "1 xícara",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Suco de laranja natural",
+    "grupo": "bebida",
+    "kcal_100g": 45,
+    "prot_100g": 0.7,
+    "carb_100g": 10.4,
+    "gord_100g": 0.1,
+    "medida_caseira": "1 copo",
+    "gramas_medida": 200,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Leite de amêndoas",
+    "grupo": "bebida",
+    "kcal_100g": 14,
+    "prot_100g": 0.6,
+    "carb_100g": 0.3,
+    "gord_100g": 1.1,
+    "medida_caseira": "1 copo",
+    "gramas_medida": 200,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Bebida vegetal de soja",
+    "grupo": "bebida",
+    "kcal_100g": 33,
+    "prot_100g": 2.8,
+    "carb_100g": 1.5,
+    "gord_100g": 1.6,
+    "medida_caseira": "1 copo",
+    "gramas_medida": 200,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Presunto magro",
+    "grupo": "proteina",
+    "kcal_100g": 108,
+    "prot_100g": 17.0,
+    "carb_100g": 2.0,
+    "gord_100g": 3.5,
+    "medida_caseira": "3 fatias",
+    "gramas_medida": 40,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Peixe grelhado (genérico)",
+    "grupo": "proteina",
+    "kcal_100g": 120,
+    "prot_100g": 24.0,
+    "carb_100g": 0,
+    "gord_100g": 2.0,
+    "medida_caseira": "1 filé",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Frango desfiado",
+    "grupo": "proteina",
+    "kcal_100g": 159,
+    "prot_100g": 32.0,
+    "carb_100g": 0,
+    "gord_100g": 2.5,
+    "medida_caseira": "1/2 xícara",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Pão de forma integral",
+    "grupo": "carboidrato",
+    "kcal_100g": 240,
+    "prot_100g": 10.0,
+    "carb_100g": 42.0,
+    "gord_100g": 3.5,
+    "medida_caseira": "2 fatias",
+    "gramas_medida": 60,
+    "tags": [
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Crepioca",
+    "grupo": "carboidrato",
+    "kcal_100g": 108,
+    "prot_100g": 7.0,
+    "carb_100g": 14.0,
+    "gord_100g": 3.0,
+    "medida_caseira": "1 unidade",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Farelo de aveia",
+    "grupo": "carboidrato",
+    "kcal_100g": 397,
+    "prot_100g": 17.3,
+    "carb_100g": 66.2,
+    "gord_100g": 7.0,
+    "medida_caseira": "2 col. sopa",
+    "gramas_medida": 30,
+    "tags": [
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Milho verde cozido",
+    "grupo": "carboidrato",
+    "kcal_100g": 96,
+    "prot_100g": 3.2,
+    "carb_100g": 18.3,
+    "gord_100g": 1.2,
+    "medida_caseira": "1 espiga",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Inhame cozido",
+    "grupo": "carboidrato",
+    "kcal_100g": 97,
+    "prot_100g": 2.0,
+    "carb_100g": 23.0,
+    "gord_100g": 0.1,
+    "medida_caseira": "1 pedaço",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Biscoito de arroz",
+    "grupo": "carboidrato",
+    "kcal_100g": 394,
+    "prot_100g": 7.0,
+    "carb_100g": 87.0,
+    "gord_100g": 2.0,
+    "medida_caseira": "4 unidades",
+    "gramas_medida": 30,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Banana da terra cozida",
+    "grupo": "carboidrato",
+    "kcal_100g": 128,
+    "prot_100g": 1.0,
+    "carb_100g": 33.7,
+    "gord_100g": 0.2,
+    "medida_caseira": "1 unidade",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Açaí (polpa sem açúcar)",
+    "grupo": "fruta",
+    "kcal_100g": 58,
+    "prot_100g": 0.8,
+    "carb_100g": 6.2,
+    "gord_100g": 3.9,
+    "medida_caseira": "100ml",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Kiwi",
+    "grupo": "fruta",
+    "kcal_100g": 51,
+    "prot_100g": 1.0,
+    "carb_100g": 11.5,
+    "gord_100g": 0.6,
+    "medida_caseira": "1 unidade",
+    "gramas_medida": 80,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Goiaba",
+    "grupo": "fruta",
+    "kcal_100g": 54,
+    "prot_100g": 1.1,
+    "carb_100g": 13.0,
+    "gord_100g": 0.4,
+    "medida_caseira": "1 unidade",
+    "gramas_medida": 150,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Caqui",
+    "grupo": "fruta",
+    "kcal_100g": 72,
+    "prot_100g": 0.4,
+    "carb_100g": 19.3,
+    "gord_100g": 0.2,
+    "medida_caseira": "1 unidade",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Cacau em pó",
+    "grupo": "gordura",
+    "kcal_100g": 315,
+    "prot_100g": 20.0,
+    "carb_100g": 37.7,
+    "gord_100g": 11.8,
+    "medida_caseira": "1 col. sopa",
+    "gramas_medida": 10,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Psyllium",
+    "grupo": "fibra",
+    "kcal_100g": 0,
+    "prot_100g": 0,
+    "carb_100g": 0,
+    "gord_100g": 0,
+    "medida_caseira": "1 col. chá",
+    "gramas_medida": 5,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Gelatina zero açúcar",
+    "grupo": "sobremesa",
+    "kcal_100g": 7,
+    "prot_100g": 1.5,
+    "carb_100g": 0,
+    "gord_100g": 0,
+    "medida_caseira": "1 taça",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Cuscuz nordestino",
+    "grupo": "carboidrato",
+    "kcal_100g": 113,
+    "prot_100g": 2.0,
+    "carb_100g": 25.0,
+    "gord_100g": 0.3,
+    "medida_caseira": "1 fatia",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Leite em pó integral",
+    "grupo": "laticinio",
+    "kcal_100g": 496,
+    "prot_100g": 26.3,
+    "carb_100g": 38.0,
+    "gord_100g": 26.7,
+    "medida_caseira": "2 col. sopa",
+    "gramas_medida": 25,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Leite em pó desnatado",
+    "grupo": "laticinio",
+    "kcal_100g": 357,
+    "prot_100g": 35.5,
+    "carb_100g": 52.0,
+    "gord_100g": 0.7,
+    "medida_caseira": "2 col. sopa",
+    "gramas_medida": 25,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Achocolatado em pó",
+    "grupo": "carboidrato",
+    "kcal_100g": 399,
+    "prot_100g": 4.0,
+    "carb_100g": 86.0,
+    "gord_100g": 3.5,
+    "medida_caseira": "2 col. sopa",
+    "gramas_medida": 20,
+    "tags": [
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Paçoca",
+    "grupo": "gordura",
+    "kcal_100g": 475,
+    "prot_100g": 16.0,
+    "carb_100g": 44.0,
+    "gord_100g": 28.0,
+    "medida_caseira": "1 unidade",
+    "gramas_medida": 20,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Requeijão normal",
+    "grupo": "laticinio",
+    "kcal_100g": 257,
+    "prot_100g": 7.0,
+    "carb_100g": 2.5,
+    "gord_100g": 24.0,
+    "medida_caseira": "1 col. sopa",
+    "gramas_medida": 20,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Queijo prato",
+    "grupo": "proteina",
+    "kcal_100g": 357,
+    "prot_100g": 23.0,
+    "carb_100g": 1.0,
+    "gord_100g": 29.0,
+    "medida_caseira": "2 fatias",
+    "gramas_medida": 40,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Sardinha enlatada",
+    "grupo": "proteina",
+    "kcal_100g": 208,
+    "prot_100g": 24.6,
+    "carb_100g": 0,
+    "gord_100g": 11.5,
+    "medida_caseira": "1 lata",
+    "gramas_medida": 84,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Atum enlatado em óleo",
+    "grupo": "proteina",
+    "kcal_100g": 166,
+    "prot_100g": 26.2,
+    "carb_100g": 0,
+    "gord_100g": 6.4,
+    "medida_caseira": "1 lata",
+    "gramas_medida": 110,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Salsicha",
+    "grupo": "proteina",
+    "kcal_100g": 230,
+    "prot_100g": 12.0,
+    "carb_100g": 5.0,
+    "gord_100g": 18.0,
+    "medida_caseira": "2 unidades",
+    "gramas_medida": 80,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Linguiça de frango",
+    "grupo": "proteina",
+    "kcal_100g": 178,
+    "prot_100g": 16.0,
+    "carb_100g": 2.0,
+    "gord_100g": 12.0,
+    "medida_caseira": "1 unidade",
+    "gramas_medida": 80,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Mortadela",
+    "grupo": "proteina",
+    "kcal_100g": 269,
+    "prot_100g": 12.0,
+    "carb_100g": 4.5,
+    "gord_100g": 22.0,
+    "medida_caseira": "3 fatias",
+    "gramas_medida": 45,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Macarrão instantâneo",
+    "grupo": "carboidrato",
+    "kcal_100g": 436,
+    "prot_100g": 9.0,
+    "carb_100g": 59.0,
+    "gord_100g": 17.0,
+    "medida_caseira": "1 pacote",
+    "gramas_medida": 85,
+    "tags": [
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Pipoca (sem óleo)",
+    "grupo": "carboidrato",
+    "kcal_100g": 375,
+    "prot_100g": 11.0,
+    "carb_100g": 78.0,
+    "gord_100g": 4.3,
+    "medida_caseira": "1 xícara estourada",
+    "gramas_medida": 10,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Bolo simples",
+    "grupo": "carboidrato",
+    "kcal_100g": 317,
+    "prot_100g": 5.0,
+    "carb_100g": 49.0,
+    "gord_100g": 11.0,
+    "medida_caseira": "1 fatia",
+    "gramas_medida": 60,
+    "tags": []
+  },
+  {
+    "nome": "Torrada integral",
+    "grupo": "carboidrato",
+    "kcal_100g": 395,
+    "prot_100g": 12.0,
+    "carb_100g": 68.0,
+    "gord_100g": 8.0,
+    "medida_caseira": "4 unidades",
+    "gramas_medida": 30,
+    "tags": [
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Biscoito cream cracker",
+    "grupo": "carboidrato",
+    "kcal_100g": 432,
+    "prot_100g": 9.0,
+    "carb_100g": 68.0,
+    "gord_100g": 14.0,
+    "medida_caseira": "5 unidades",
+    "gramas_medida": 30,
+    "tags": [
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Biscoito integral",
+    "grupo": "carboidrato",
+    "kcal_100g": 423,
+    "prot_100g": 8.5,
+    "carb_100g": 67.0,
+    "gord_100g": 14.0,
+    "medida_caseira": "5 unidades",
+    "gramas_medida": 30,
+    "tags": [
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Pão de queijo",
+    "grupo": "carboidrato",
+    "kcal_100g": 363,
+    "prot_100g": 5.5,
+    "carb_100g": 43.0,
+    "gord_100g": 18.0,
+    "medida_caseira": "2 unidades",
+    "gramas_medida": 60,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Tapioca recheada",
+    "grupo": "carboidrato",
+    "kcal_100g": 200,
+    "prot_100g": 8.0,
+    "carb_100g": 30.0,
+    "gord_100g": 5.0,
+    "medida_caseira": "1 unidade",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Coco ralado",
+    "grupo": "gordura",
+    "kcal_100g": 592,
+    "prot_100g": 5.5,
+    "carb_100g": 26.0,
+    "gord_100g": 54.0,
+    "medida_caseira": "2 col. sopa",
+    "gramas_medida": 20,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Leite de coco",
+    "grupo": "gordura",
+    "kcal_100g": 191,
+    "prot_100g": 1.5,
+    "carb_100g": 3.0,
+    "gord_100g": 19.5,
+    "medida_caseira": "100ml",
+    "gramas_medida": 100,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Manteiga",
+    "grupo": "gordura",
+    "kcal_100g": 717,
+    "prot_100g": 0.9,
+    "carb_100g": 0.1,
+    "gord_100g": 81.1,
+    "medida_caseira": "1 col. chá",
+    "gramas_medida": 5,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Cream cheese",
+    "grupo": "laticinio",
+    "kcal_100g": 342,
+    "prot_100g": 5.9,
+    "carb_100g": 4.1,
+    "gord_100g": 34.2,
+    "medida_caseira": "1 col. sopa",
+    "gramas_medida": 20,
+    "tags": [
+      "sem_gluten"
+    ]
+  },
+  {
+    "nome": "Farinha de aveia",
+    "grupo": "carboidrato",
+    "kcal_100g": 394,
+    "prot_100g": 14.0,
+    "carb_100g": 66.6,
+    "gord_100g": 8.5,
+    "medida_caseira": "3 col. sopa",
+    "gramas_medida": 40,
+    "tags": [
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Whey vegetal (ervilha)",
+    "grupo": "suplemento",
+    "kcal_100g": 370,
+    "prot_100g": 75.0,
+    "carb_100g": 7.0,
+    "gord_100g": 5.0,
+    "medida_caseira": "1 scoop",
+    "gramas_medida": 30,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose",
+      "vegano"
+    ]
+  },
+  {
+    "nome": "Leite sem lactose integral",
+    "grupo": "laticinio",
+    "kcal_100g": 60,
+    "prot_100g": 3.2,
+    "carb_100g": 4.5,
+    "gord_100g": 3.0,
+    "medida_caseira": "1 copo",
+    "gramas_medida": 200,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Leite sem lactose desnatado",
+    "grupo": "laticinio",
+    "kcal_100g": 37,
+    "prot_100g": 3.4,
+    "carb_100g": 5.0,
+    "gord_100g": 0.1,
+    "medida_caseira": "1 copo",
+    "gramas_medida": 200,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Iogurte sem lactose natural",
+    "grupo": "laticinio",
+    "kcal_100g": 55,
+    "prot_100g": 4.5,
+    "carb_100g": 6.0,
+    "gord_100g": 1.5,
+    "medida_caseira": "1 pote",
+    "gramas_medida": 200,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Iogurte sem lactose grego",
+    "grupo": "laticinio",
+    "kcal_100g": 90,
+    "prot_100g": 8.0,
+    "carb_100g": 5.0,
+    "gord_100g": 4.0,
+    "medida_caseira": "1 pote",
+    "gramas_medida": 120,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Queijo parmesão",
+    "grupo": "proteina",
+    "kcal_100g": 392,
+    "prot_100g": 33.0,
+    "carb_100g": 0,
+    "gord_100g": 28.0,
+    "medida_caseira": "2 col. sopa ralado",
+    "gramas_medida": 20,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Queijo cheddar curado",
+    "grupo": "proteina",
+    "kcal_100g": 403,
+    "prot_100g": 25.0,
+    "carb_100g": 1.3,
+    "gord_100g": 33.0,
+    "medida_caseira": "2 fatias",
+    "gramas_medida": 40,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Manteiga sem lactose",
+    "grupo": "gordura",
+    "kcal_100g": 717,
+    "prot_100g": 0.9,
+    "carb_100g": 0.1,
+    "gord_100g": 81.0,
+    "medida_caseira": "1 col. chá",
+    "gramas_medida": 5,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Cream cheese sem lactose",
+    "grupo": "laticinio",
+    "kcal_100g": 250,
+    "prot_100g": 5.5,
+    "carb_100g": 4.0,
+    "gord_100g": 24.0,
+    "medida_caseira": "1 col. sopa",
+    "gramas_medida": 20,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  },
+  {
+    "nome": "Requeijão sem lactose",
+    "grupo": "laticinio",
+    "kcal_100g": 257,
+    "prot_100g": 8.0,
+    "carb_100g": 3.0,
+    "gord_100g": 24.0,
+    "medida_caseira": "1 col. sopa",
+    "gramas_medida": 20,
+    "tags": [
+      "sem_gluten",
+      "sem_lactose"
+    ]
+  }
+]

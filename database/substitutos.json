@@ -1,0 +1,689 @@
+{
+  "Frango grelhado": [
+    "Carne bovina magra (patinho)",
+    "Tilápia grelhada",
+    "Peixe grelhado (genérico)",
+    "Peito de peru",
+    "Ovos inteiros"
+  ],
+  "Carne bovina magra (patinho)": [
+    "Frango grelhado",
+    "Tilápia grelhada",
+    "Coxão mole",
+    "Acém",
+    "Carne suína magra (lombo)"
+  ],
+  "Filé mignon": [
+    "Coxão mole",
+    "Frango grelhado",
+    "Acém",
+    "Tilápia grelhada"
+  ],
+  "Carne moída magra": [
+    "Frango desfiado",
+    "Proteína de soja texturizada",
+    "Carne bovina magra (patinho)"
+  ],
+  "Tilápia grelhada": [
+    "Salmão grelhado",
+    "Frango grelhado",
+    "Peixe grelhado (genérico)",
+    "Atum enlatado (em água)"
+  ],
+  "Salmão grelhado": [
+    "Tilápia grelhada",
+    "Atum enlatado (em água)",
+    "Peixe grelhado (genérico)"
+  ],
+  "Ovos inteiros": [
+    "Queijo branco (minas frescal)",
+    "Frango grelhado",
+    "Queijo muçarela",
+    "Tofu firme"
+  ],
+  "Peito de peru": [
+    "Presunto magro",
+    "Frango desfiado",
+    "Queijo branco (minas frescal)"
+  ],
+  "Tofu firme": [
+    "Proteína de soja texturizada",
+    "Ovos inteiros",
+    "Queijo branco (minas frescal)"
+  ],
+  "Proteína de soja texturizada": [
+    "Tofu firme",
+    "Grão-de-bico cozido",
+    "Lentilha cozida"
+  ],
+  "Arroz branco cozido": [
+    "Arroz integral cozido",
+    "Macarrão cozido",
+    "Batata inglesa cozida",
+    "Quinoa cozida"
+  ],
+  "Arroz integral cozido": [
+    "Quinoa cozida",
+    "Macarrão integral cozido",
+    "Batata doce cozida",
+    "Arroz branco cozido"
+  ],
+  "Batata doce cozida": [
+    "Batata inglesa cozida",
+    "Mandioca cozida",
+    "Inhame cozido",
+    "Arroz integral cozido"
+  ],
+  "Batata inglesa cozida": [
+    "Batata doce cozida",
+    "Mandioca cozida",
+    "Arroz branco cozido"
+  ],
+  "Mandioca cozida": [
+    "Batata doce cozida",
+    "Batata inglesa cozida",
+    "Inhame cozido"
+  ],
+  "Macarrão cozido": [
+    "Macarrão integral cozido",
+    "Arroz branco cozido",
+    "Batata inglesa cozida"
+  ],
+  "Macarrão integral cozido": [
+    "Macarrão cozido",
+    "Arroz integral cozido",
+    "Quinoa cozida"
+  ],
+  "Pão integral": [
+    "Tapioca (goma)",
+    "Pão de forma integral",
+    "Crepioca",
+    "Cuscuz de milho"
+  ],
+  "Pão francês": [
+    "Pão integral",
+    "Pão de forma integral",
+    "Tapioca (goma)"
+  ],
+  "Tapioca (goma)": [
+    "Pão integral",
+    "Crepioca",
+    "Cuscuz de milho"
+  ],
+  "Aveia em flocos": [
+    "Granola sem açúcar",
+    "Farelo de aveia"
+  ],
+  "Granola sem açúcar": [
+    "Aveia em flocos",
+    "Farelo de aveia"
+  ],
+  "Cuscuz de milho": [
+    "Tapioca (goma)",
+    "Batata doce cozida",
+    "Inhame cozido"
+  ],
+  "Quinoa cozida": [
+    "Arroz integral cozido",
+    "Macarrão integral cozido"
+  ],
+  "Feijão carioca cozido": [
+    "Lentilha cozida",
+    "Feijão preto cozido",
+    "Grão-de-bico cozido"
+  ],
+  "Feijão preto cozido": [
+    "Feijão carioca cozido",
+    "Lentilha cozida",
+    "Grão-de-bico cozido"
+  ],
+  "Lentilha cozida": [
+    "Feijão carioca cozido",
+    "Grão-de-bico cozido",
+    "Ervilha cozida"
+  ],
+  "Grão-de-bico cozido": [
+    "Lentilha cozida",
+    "Feijão carioca cozido",
+    "Ervilha cozida"
+  ],
+  "Banana prata": [
+    "Maçã",
+    "Mamão formosa",
+    "Pera"
+  ],
+  "Maçã": [
+    "Pera",
+    "Banana prata",
+    "Goiaba"
+  ],
+  "Mamão formosa": [
+    "Melão",
+    "Laranja",
+    "Maçã"
+  ],
+  "Morango": [
+    "Mamão formosa",
+    "Uva",
+    "Kiwi"
+  ],
+  "Melão": [
+    "Melancia",
+    "Mamão formosa",
+    "Laranja"
+  ],
+  "Laranja": [
+    "Melão",
+    "Mamão formosa",
+    "Goiaba"
+  ],
+  "Abacate": [
+    "Pasta de amendoim",
+    "Castanha de caju",
+    "Semente de chia"
+  ],
+  "Azeite de oliva": [
+    "Semente de chia",
+    "Abacate",
+    "Semente de linhaça",
+    "Óleo de coco"
+  ],
+  "Pasta de amendoim": [
+    "Castanha de caju",
+    "Amendoim torrado",
+    "Amêndoas"
+  ],
+  "Castanha de caju": [
+    "Amendoim torrado",
+    "Amêndoas",
+    "Nozes",
+    "Castanha-do-pará"
+  ],
+  "Amêndoas": [
+    "Castanha de caju",
+    "Nozes",
+    "Amendoim torrado"
+  ],
+  "Iogurte natural desnatado": [
+    "Iogurte grego zero",
+    "Leite desnatado",
+    "Queijo cottage",
+    "Iogurte sem lactose natural"
+  ],
+  "Iogurte grego zero": [
+    "Iogurte natural desnatado",
+    "Queijo cottage",
+    "Iogurte sem lactose grego"
+  ],
+  "Leite desnatado": [
+    "Leite integral",
+    "Bebida vegetal de soja",
+    "Leite de amêndoas",
+    "Leite sem lactose desnatado"
+  ],
+  "Leite integral": [
+    "Leite desnatado",
+    "Bebida vegetal de soja",
+    "Leite sem lactose integral"
+  ],
+  "Whey Protein concentrado": [
+    "Whey Protein isolado",
+    "Iogurte natural desnatado",
+    "Ovos inteiros"
+  ],
+  "Whey Protein isolado": [
+    "Whey Protein concentrado",
+    "Clara de ovo"
+  ],
+  "Brócolis cozido": [
+    "Couve-flor cozida",
+    "Abobrinha refogada",
+    "Vagem cozida"
+  ],
+  "Tomate": [
+    "Cenoura cozida",
+    "Pepino",
+    "Beterraba cozida"
+  ],
+  "Alface": [
+    "Espinafre cozido",
+    "Couve refogada"
+  ],
+  "Mel": [
+    "Doce de leite",
+    "Banana prata"
+  ],
+  "Chocolate 70%": [
+    "Cacau em pó",
+    "Paçoca"
+  ],
+  "Creatina monohidratada": [],
+  "Barra de proteína": [
+    "Iogurte grego zero",
+    "Whey Protein concentrado"
+  ],
+  "Coxão mole": [
+    "Carne bovina magra (patinho)",
+    "Acém",
+    "Frango grelhado"
+  ],
+  "Acém": [
+    "Carne bovina magra (patinho)",
+    "Coxão mole",
+    "Frango grelhado"
+  ],
+  "Fígado bovino": [
+    "Carne bovina magra (patinho)",
+    "Frango grelhado"
+  ],
+  "Atum enlatado (em água)": [
+    "Sardinha enlatada",
+    "Tilápia grelhada",
+    "Frango desfiado"
+  ],
+  "Clara de ovo": [
+    "Whey Protein isolado",
+    "Peito de peru"
+  ],
+  "Queijo branco (minas frescal)": [
+    "Ricota",
+    "Queijo cottage",
+    "Tofu firme"
+  ],
+  "Queijo cottage": [
+    "Ricota",
+    "Queijo branco (minas frescal)",
+    "Iogurte natural desnatado"
+  ],
+  "Queijo muçarela": [
+    "Queijo prato",
+    "Queijo branco (minas frescal)"
+  ],
+  "Ricota": [
+    "Queijo cottage",
+    "Queijo branco (minas frescal)",
+    "Tofu firme"
+  ],
+  "Carne suína magra (lombo)": [
+    "Frango grelhado",
+    "Carne bovina magra (patinho)",
+    "Tilápia grelhada"
+  ],
+  "Ervilha cozida": [
+    "Lentilha cozida",
+    "Feijão carioca cozido"
+  ],
+  "Melancia": [
+    "Melão",
+    "Mamão formosa"
+  ],
+  "Pera": [
+    "Maçã",
+    "Goiaba"
+  ],
+  "Uva": [
+    "Morango",
+    "Goiaba",
+    "Maçã"
+  ],
+  "Abacaxi": [
+    "Manga",
+    "Mamão formosa",
+    "Laranja"
+  ],
+  "Manga": [
+    "Banana prata",
+    "Mamão formosa",
+    "Abacaxi"
+  ],
+  "Castanha-do-pará": [
+    "Nozes",
+    "Amêndoas",
+    "Castanha de caju"
+  ],
+  "Nozes": [
+    "Amêndoas",
+    "Castanha de caju",
+    "Castanha-do-pará"
+  ],
+  "Amendoim torrado": [
+    "Pasta de amendoim",
+    "Castanha de caju",
+    "Amêndoas"
+  ],
+  "Semente de chia": [
+    "Semente de linhaça",
+    "Aveia em flocos"
+  ],
+  "Semente de linhaça": [
+    "Semente de chia",
+    "Aveia em flocos"
+  ],
+  "Óleo de coco": [
+    "Azeite de oliva",
+    "Manteiga"
+  ],
+  "Iogurte natural integral": [
+    "Iogurte natural desnatado",
+    "Iogurte grego zero"
+  ],
+  "Requeijão light": [
+    "Cream cheese",
+    "Requeijão normal",
+    "Queijo cottage",
+    "Requeijão sem lactose"
+  ],
+  "Cenoura cozida": [
+    "Abóbora cozida",
+    "Beterraba cozida",
+    "Tomate"
+  ],
+  "Abobrinha refogada": [
+    "Chuchu cozido",
+    "Couve-flor cozida",
+    "Brócolis cozido"
+  ],
+  "Couve refogada": [
+    "Espinafre cozido",
+    "Brócolis cozido"
+  ],
+  "Abóbora cozida": [
+    "Cenoura cozida",
+    "Beterraba cozida",
+    "Chuchu cozido"
+  ],
+  "Beterraba cozida": [
+    "Cenoura cozida",
+    "Abóbora cozida"
+  ],
+  "Chuchu cozido": [
+    "Abobrinha refogada",
+    "Couve-flor cozida"
+  ],
+  "Couve-flor cozida": [
+    "Brócolis cozido",
+    "Abobrinha refogada",
+    "Vagem cozida"
+  ],
+  "Vagem cozida": [
+    "Brócolis cozido",
+    "Couve-flor cozida"
+  ],
+  "Pepino": [
+    "Tomate",
+    "Alface"
+  ],
+  "Espinafre cozido": [
+    "Couve refogada",
+    "Brócolis cozido"
+  ],
+  "Doce de leite": [
+    "Mel",
+    "Paçoca"
+  ],
+  "Hipercalórico": [
+    "Whey Protein concentrado",
+    "Barra de proteína"
+  ],
+  "Café preto sem açúcar": [
+    "Suco de laranja natural",
+    "Achocolatado em pó"
+  ],
+  "Suco de laranja natural": [
+    "Café preto sem açúcar",
+    "Laranja"
+  ],
+  "Leite de amêndoas": [
+    "Bebida vegetal de soja",
+    "Leite desnatado"
+  ],
+  "Bebida vegetal de soja": [
+    "Leite de amêndoas",
+    "Leite desnatado"
+  ],
+  "Presunto magro": [
+    "Peito de peru",
+    "Frango desfiado"
+  ],
+  "Peixe grelhado (genérico)": [
+    "Tilápia grelhada",
+    "Salmão grelhado",
+    "Frango grelhado"
+  ],
+  "Frango desfiado": [
+    "Frango grelhado",
+    "Peito de peru",
+    "Atum enlatado (em água)"
+  ],
+  "Pão de forma integral": [
+    "Pão integral",
+    "Tapioca (goma)",
+    "Torrada integral"
+  ],
+  "Crepioca": [
+    "Tapioca (goma)",
+    "Pão integral",
+    "Cuscuz de milho"
+  ],
+  "Farelo de aveia": [
+    "Aveia em flocos",
+    "Farinha de aveia",
+    "Granola sem açúcar"
+  ],
+  "Milho verde cozido": [
+    "Batata doce cozida",
+    "Mandioca cozida",
+    "Cuscuz de milho"
+  ],
+  "Inhame cozido": [
+    "Batata doce cozida",
+    "Mandioca cozida",
+    "Batata inglesa cozida"
+  ],
+  "Biscoito de arroz": [
+    "Torrada integral",
+    "Biscoito integral"
+  ],
+  "Banana da terra cozida": [
+    "Batata doce cozida",
+    "Mandioca cozida"
+  ],
+  "Açaí (polpa sem açúcar)": [
+    "Banana prata",
+    "Morango",
+    "Mamão formosa"
+  ],
+  "Kiwi": [
+    "Morango",
+    "Goiaba",
+    "Laranja"
+  ],
+  "Goiaba": [
+    "Maçã",
+    "Pera",
+    "Kiwi"
+  ],
+  "Caqui": [
+    "Manga",
+    "Banana prata",
+    "Pera"
+  ],
+  "Cacau em pó": [
+    "Chocolate 70%",
+    "Achocolatado em pó"
+  ],
+  "Psyllium": [
+    "Semente de chia",
+    "Semente de linhaça"
+  ],
+  "Gelatina zero açúcar": [
+    "Iogurte natural desnatado",
+    "Morango"
+  ],
+  "Cuscuz nordestino": [
+    "Cuscuz de milho",
+    "Tapioca (goma)",
+    "Batata doce cozida"
+  ],
+  "Leite em pó integral": [
+    "Leite integral",
+    "Leite em pó desnatado"
+  ],
+  "Leite em pó desnatado": [
+    "Leite desnatado",
+    "Leite em pó integral"
+  ],
+  "Achocolatado em pó": [
+    "Cacau em pó",
+    "Chocolate 70%"
+  ],
+  "Paçoca": [
+    "Pasta de amendoim",
+    "Amendoim torrado",
+    "Castanha de caju"
+  ],
+  "Requeijão normal": [
+    "Requeijão light",
+    "Cream cheese",
+    "Queijo cottage",
+    "Requeijão sem lactose"
+  ],
+  "Queijo prato": [
+    "Queijo muçarela",
+    "Queijo branco (minas frescal)"
+  ],
+  "Sardinha enlatada": [
+    "Atum enlatado (em água)",
+    "Atum enlatado em óleo",
+    "Salmão grelhado"
+  ],
+  "Atum enlatado em óleo": [
+    "Atum enlatado (em água)",
+    "Sardinha enlatada"
+  ],
+  "Salsicha": [
+    "Linguiça de frango",
+    "Presunto magro",
+    "Peito de peru"
+  ],
+  "Linguiça de frango": [
+    "Salsicha",
+    "Frango grelhado",
+    "Presunto magro"
+  ],
+  "Mortadela": [
+    "Presunto magro",
+    "Peito de peru",
+    "Salsicha"
+  ],
+  "Macarrão instantâneo": [
+    "Macarrão cozido",
+    "Arroz branco cozido"
+  ],
+  "Pipoca (sem óleo)": [
+    "Biscoito de arroz",
+    "Torrada integral"
+  ],
+  "Bolo simples": [
+    "Pão de queijo",
+    "Biscoito integral"
+  ],
+  "Torrada integral": [
+    "Pão integral",
+    "Biscoito integral",
+    "Biscoito de arroz"
+  ],
+  "Biscoito cream cracker": [
+    "Torrada integral",
+    "Biscoito integral",
+    "Biscoito de arroz"
+  ],
+  "Biscoito integral": [
+    "Biscoito cream cracker",
+    "Torrada integral",
+    "Biscoito de arroz"
+  ],
+  "Pão de queijo": [
+    "Tapioca (goma)",
+    "Pão francês",
+    "Crepioca"
+  ],
+  "Tapioca recheada": [
+    "Crepioca",
+    "Tapioca (goma)",
+    "Pão integral"
+  ],
+  "Coco ralado": [
+    "Leite de coco",
+    "Castanha de caju"
+  ],
+  "Leite de coco": [
+    "Coco ralado",
+    "Azeite de oliva"
+  ],
+  "Manteiga": [
+    "Azeite de oliva",
+    "Óleo de coco",
+    "Cream cheese",
+    "Manteiga sem lactose"
+  ],
+  "Cream cheese": [
+    "Requeijão light",
+    "Requeijão normal",
+    "Queijo cottage",
+    "Cream cheese sem lactose"
+  ],
+  "Farinha de aveia": [
+    "Aveia em flocos",
+    "Farelo de aveia"
+  ],
+  "Whey vegetal (ervilha)": [
+    "Whey Protein isolado",
+    "Proteína de soja texturizada"
+  ],
+  "Leite sem lactose integral": [
+    "Leite integral",
+    "Leite sem lactose desnatado",
+    "Bebida vegetal de soja"
+  ],
+  "Leite sem lactose desnatado": [
+    "Leite desnatado",
+    "Leite sem lactose integral",
+    "Leite de amêndoas"
+  ],
+  "Iogurte sem lactose natural": [
+    "Iogurte natural desnatado",
+    "Iogurte sem lactose grego",
+    "Iogurte natural integral"
+  ],
+  "Iogurte sem lactose grego": [
+    "Iogurte grego zero",
+    "Iogurte sem lactose natural",
+    "Queijo cottage"
+  ],
+  "Queijo parmesão": [
+    "Queijo cheddar curado",
+    "Queijo muçarela",
+    "Queijo prato"
+  ],
+  "Queijo cheddar curado": [
+    "Queijo parmesão",
+    "Queijo muçarela",
+    "Queijo prato"
+  ],
+  "Manteiga sem lactose": [
+    "Manteiga",
+    "Azeite de oliva",
+    "Óleo de coco"
+  ],
+  "Cream cheese sem lactose": [
+    "Cream cheese",
+    "Requeijão sem lactose",
+    "Queijo cottage"
+  ],
+  "Requeijão sem lactose": [
+    "Requeijão normal",
+    "Requeijão light",
+    "Cream cheese sem lactose"
+  ]
+}

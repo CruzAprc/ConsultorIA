@@ -1,0 +1,98 @@
+[
+  {
+    "nome": "Convencional",
+    "descricao": "Séries tradicionais com carga constante e descanso completo entre séries",
+    "execucao": "3-4 séries × 8-12 reps, descanso 60-90s",
+    "nivel_minimo": "Iniciante",
+    "quando_usar": "Base de qualquer programa. Sempre presente.",
+    "frequencia_base": 19159
+  },
+  {
+    "nome": "Pirâmide Crescente",
+    "descricao": "Aumentar carga e diminuir reps a cada série",
+    "execucao": "Ex: 12-10-8-6 reps, aumentando 5-10% de carga por série. Descanso 60-90s",
+    "nivel_minimo": "Iniciante",
+    "quando_usar": "Exercícios compostos (supino, agachamento, leg press). Bom para ganho de força + hipertrofia.",
+    "frequencia_base": 8817
+  },
+  {
+    "nome": "Pico de Contração",
+    "descricao": "Segurar a contração máxima por 2-3 segundos no topo do movimento",
+    "execucao": "3-4 séries × 10-12 reps, segurando 2-3s na contração. Descanso 45-60s",
+    "nivel_minimo": "Iniciante",
+    "quando_usar": "Exercícios isolados (rosca, elevação lateral, extensora). Melhora conexão mente-músculo.",
+    "frequencia_base": 8142
+  },
+  {
+    "nome": "Rest-Pause",
+    "descricao": "Após falha, descansar 10-15s e fazer mais reps até nova falha",
+    "execucao": "Fazer até falha → descanso 10-15s → mais reps até falha → descanso 10-15s → mais reps. Descanso entre séries: 90-120s",
+    "nivel_minimo": "Intermediário",
+    "quando_usar": "Último exercício do grupo muscular. Aumenta volume e intensidade.",
+    "frequencia_base": 6877
+  },
+  {
+    "nome": "Drop-Set",
+    "descricao": "Após falha, reduzir carga 20-30% e continuar sem descanso",
+    "execucao": "Fazer até falha → reduzir 20-30% → continuar até falha → reduzir novamente (2-3 drops). Descanso 90-120s entre séries",
+    "nivel_minimo": "Intermediário",
+    "quando_usar": "Último exercício ou última série. Ideal em máquinas e cabos. Excelente para esgotamento muscular.",
+    "frequencia_base": 5190
+  },
+  {
+    "nome": "Bi-Set",
+    "descricao": "Dois exercícios para o mesmo grupo muscular sem descanso entre eles",
+    "execucao": "Ex 1 → sem descanso → Ex 2 → descanso 60-90s. 3-4 séries",
+    "nivel_minimo": "Intermediário",
+    "quando_usar": "Quando quer aumentar volume sem aumentar tempo de treino. Bom para braços e ombros.",
+    "frequencia_base": 653
+  },
+  {
+    "nome": "Super Slow",
+    "descricao": "Fase excêntrica e concêntrica muito lentas (4-6s cada)",
+    "execucao": "4-6s na subida, 4-6s na descida. 3 séries × 8 reps. Carga 50-60% do normal",
+    "nivel_minimo": "Intermediário",
+    "quando_usar": "Exercícios isolados, reabilitação, conexão mente-músculo. Bom para lesões em recuperação.",
+    "frequencia_base": 149
+  },
+  {
+    "nome": "FST-7",
+    "descricao": "7 séries do último exercício com 30s de descanso (fascia stretch training)",
+    "execucao": "Treino normal + último exercício: 7 séries × 8-12 reps, descanso 30s",
+    "nivel_minimo": "Avançado",
+    "quando_usar": "Grupos musculares que precisa de mais volume/pump. Avançados apenas.",
+    "frequencia_base": 47
+  },
+  {
+    "nome": "Super-Set (agonista/antagonista)",
+    "descricao": "Dois exercícios de grupos opostos sem descanso",
+    "execucao": "Ex grupo A → sem descanso → Ex grupo B → descanso 60-90s",
+    "nivel_minimo": "Intermediário",
+    "quando_usar": "Bíceps/Tríceps, Peito/Costas, Quadríceps/Posterior. Economiza tempo.",
+    "frequencia_base": 0
+  },
+  {
+    "nome": "Circuito",
+    "descricao": "3-6 exercícios em sequência sem descanso, descanso ao final da rodada",
+    "execucao": "Ex 1 → Ex 2 → Ex 3 → ... → descanso 120-180s. 3-4 rodadas",
+    "nivel_minimo": "Iniciante",
+    "quando_usar": "Emagrecimento, condicionamento. Treinos mais curtos.",
+    "frequencia_base": 0
+  },
+  {
+    "nome": "Pirâmide Decrescente",
+    "descricao": "Diminuir carga e aumentar reps a cada série",
+    "execucao": "Ex: 6-8-10-12 reps, diminuindo 5-10% de carga. Descanso 60s",
+    "nivel_minimo": "Intermediário",
+    "quando_usar": "Esgotamento muscular. Bom para isolados.",
+    "frequencia_base": 0
+  },
+  {
+    "nome": "Cluster Set",
+    "descricao": "Dividir uma série longa em mini-séries com micro-pausas",
+    "execucao": "5 reps → 15s → 5 reps → 15s → 5 reps. Carga de 5RM. Descanso 120s",
+    "nivel_minimo": "Avançado",
+    "quando_usar": "Ganho de força em compostos pesados. Avançados.",
+    "frequencia_base": 0
+  }
+]

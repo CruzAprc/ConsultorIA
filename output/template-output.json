@@ -1,0 +1,84 @@
+{
+  "paciente": {
+    "nome": "",
+    "sexo": "",
+    "idade": 0,
+    "peso_kg": 0,
+    "altura_cm": 0,
+    "objetivo": "",
+    "nivel": "",
+    "restricoes": [],
+    "lesoes": []
+  },
+  "calculos": {
+    "tmb_hb": 0,
+    "tmb_mifflin": 0,
+    "tdee": 0,
+    "kcal_alvo": 0,
+    "proteina_g": 0,
+    "proteina_g_kg": 0,
+    "carboidrato_g": 0,
+    "carboidrato_g_kg": 0,
+    "gordura_g": 0,
+    "gordura_g_kg": 0
+  },
+  "dieta": {
+    "refeicoes": [
+      {
+        "nome": "Café da Manhã",
+        "horario": "08:00",
+        "observacao": "",
+        "itens": [
+          {
+            "alimento": "",
+            "gramas": 0,
+            "medida_caseira": "",
+            "proteina_g": 0,
+            "carboidrato_g": 0,
+            "gordura_g": 0,
+            "kcal": 0,
+            "substituto": ""
+          }
+        ],
+        "total_kcal": 0,
+        "total_prot": 0,
+        "total_carb": 0,
+        "total_gord": 0
+      }
+    ],
+    "verificacao": {
+      "kcal_meta": 0,
+      "kcal_soma": 0,
+      "diferenca_kcal": 0,
+      "status": "APROVADO"
+    }
+  },
+  "treino": {
+    "divisao": "",
+    "dias": [
+      {
+        "nome": "Treino A",
+        "musculos": "Peito, Tríceps",
+        "exercicios": [
+          {
+            "nome": "",
+            "grupo": "",
+            "series": 0,
+            "repeticoes": "",
+            "metodo": "",
+            "descanso": "",
+            "observacao": ""
+          }
+        ]
+      }
+    ],
+    "cardio": {
+      "dias": 0,
+      "minutos": 0,
+      "tipo": ""
+    }
+  },
+  "suplementacao": [],
+  "hidratacao_ml_dia": 0,
+  "recomendacao_creatina": ""
+}

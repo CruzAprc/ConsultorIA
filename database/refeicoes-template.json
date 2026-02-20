@@ -1,0 +1,1164 @@
+[
+  {
+    "refeicao": "Café da Manhã",
+    "objetivo": "Bulking",
+    "template": {
+      "proteina": {
+        "slot": "proteina_cafe",
+        "opcoes": [
+          "Ovos inteiros",
+          "Queijo branco (minas frescal)",
+          "Whey Protein concentrado"
+        ],
+        "gramas_ref": 100
+      },
+      "carboidrato": {
+        "slot": "carb_cafe",
+        "opcoes": [
+          "Pão integral",
+          "Aveia em flocos",
+          "Tapioca (goma)"
+        ],
+        "gramas_ref": 60
+      },
+      "fruta": {
+        "slot": "fruta_cafe",
+        "opcoes": [
+          "Banana prata",
+          "Mamão formosa",
+          "Morango"
+        ],
+        "gramas_ref": 80
+      },
+      "gordura": {
+        "slot": "gord_cafe",
+        "opcoes": [
+          "Pasta de amendoim",
+          "Castanha de caju"
+        ],
+        "gramas_ref": 20
+      },
+      "suplemento": {
+        "slot": "creatina",
+        "opcoes": [
+          "Creatina monohidratada"
+        ],
+        "gramas_ref": 5
+      }
+    },
+    "nome": "Café Bulking"
+  },
+  {
+    "refeicao": "Café da Manhã",
+    "objetivo": "Emagrecimento",
+    "template": {
+      "proteina": {
+        "slot": "proteina_cafe",
+        "opcoes": [
+          "Ovos inteiros",
+          "Iogurte natural desnatado",
+          "Whey Protein isolado"
+        ],
+        "gramas_ref": 80
+      },
+      "carboidrato": {
+        "slot": "carb_cafe",
+        "opcoes": [
+          "Pão integral",
+          "Aveia em flocos",
+          "Crepioca"
+        ],
+        "gramas_ref": 40
+      },
+      "fruta": {
+        "slot": "fruta_cafe",
+        "opcoes": [
+          "Morango",
+          "Maçã",
+          "Mamão formosa"
+        ],
+        "gramas_ref": 100
+      },
+      "suplemento": {
+        "slot": "creatina",
+        "opcoes": [
+          "Creatina monohidratada"
+        ],
+        "gramas_ref": 5
+      }
+    },
+    "nome": "Café Emag"
+  },
+  {
+    "refeicao": "Almoço",
+    "objetivo": "Bulking",
+    "template": {
+      "proteina": {
+        "slot": "proteina_alm",
+        "opcoes": [
+          "Frango grelhado",
+          "Carne bovina magra (patinho)",
+          "Tilápia grelhada"
+        ],
+        "gramas_ref": 180
+      },
+      "carboidrato": {
+        "slot": "carb_alm",
+        "opcoes": [
+          "Arroz integral cozido",
+          "Arroz branco cozido",
+          "Batata doce cozida"
+        ],
+        "gramas_ref": 200
+      },
+      "leguminosa": {
+        "slot": "legum_alm",
+        "opcoes": [
+          "Feijão carioca cozido",
+          "Feijão preto cozido",
+          "Lentilha cozida"
+        ],
+        "gramas_ref": 100
+      },
+      "vegetal": {
+        "slot": "veg_alm",
+        "opcoes": [
+          "Brócolis cozido",
+          "Abobrinha refogada",
+          "Couve refogada"
+        ],
+        "gramas_ref": 100
+      },
+      "gordura": {
+        "slot": "gord_alm",
+        "opcoes": [
+          "Azeite de oliva"
+        ],
+        "gramas_ref": 10
+      }
+    },
+    "nome": "Lanche Manha Bulk"
+  },
+  {
+    "refeicao": "Almoço",
+    "objetivo": "Emagrecimento",
+    "template": {
+      "proteina": {
+        "slot": "proteina_alm",
+        "opcoes": [
+          "Frango grelhado",
+          "Tilápia grelhada",
+          "Peixe grelhado (genérico)"
+        ],
+        "gramas_ref": 150
+      },
+      "carboidrato": {
+        "slot": "carb_alm",
+        "opcoes": [
+          "Arroz integral cozido",
+          "Batata doce cozida",
+          "Quinoa cozida"
+        ],
+        "gramas_ref": 120
+      },
+      "leguminosa": {
+        "slot": "legum_alm",
+        "opcoes": [
+          "Feijão carioca cozido",
+          "Lentilha cozida"
+        ],
+        "gramas_ref": 80
+      },
+      "vegetal": {
+        "slot": "veg_alm",
+        "opcoes": [
+          "Alface",
+          "Tomate",
+          "Brócolis cozido",
+          "Pepino"
+        ],
+        "gramas_ref": 100
+      },
+      "gordura": {
+        "slot": "gord_alm",
+        "opcoes": [
+          "Azeite de oliva"
+        ],
+        "gramas_ref": 10
+      }
+    },
+    "nome": "Lanche Manha Emag"
+  },
+  {
+    "refeicao": "Lanche da Manhã",
+    "objetivo": "Bulking",
+    "template": {
+      "fruta": {
+        "slot": "fruta_lm",
+        "opcoes": [
+          "Maçã",
+          "Mamão formosa",
+          "Banana prata"
+        ],
+        "gramas_ref": 130
+      },
+      "proteina": {
+        "slot": "prot_lm",
+        "opcoes": [
+          "Iogurte natural desnatado",
+          "Barra de proteína"
+        ],
+        "gramas_ref": 120
+      },
+      "gordura": {
+        "slot": "gord_lm",
+        "opcoes": [
+          "Castanha de caju",
+          "Amêndoas",
+          "Nozes"
+        ],
+        "gramas_ref": 30
+      }
+    },
+    "nome": "Almoço Bulk"
+  },
+  {
+    "refeicao": "Lanche da Manhã",
+    "objetivo": "Emagrecimento",
+    "template": {
+      "fruta": {
+        "slot": "fruta_lm",
+        "opcoes": [
+          "Maçã",
+          "Morango",
+          "Mamão formosa"
+        ],
+        "gramas_ref": 130
+      },
+      "proteina": {
+        "slot": "prot_lm",
+        "opcoes": [
+          "Iogurte grego zero",
+          "Queijo cottage"
+        ],
+        "gramas_ref": 100
+      }
+    },
+    "nome": "Almoço Emag"
+  },
+  {
+    "refeicao": "Lanche da Tarde",
+    "objetivo": "Bulking",
+    "template": {
+      "proteina": {
+        "slot": "prot_lt",
+        "opcoes": [
+          "Whey Protein concentrado",
+          "Ovos inteiros",
+          "Queijo branco (minas frescal)"
+        ],
+        "gramas_ref": 80
+      },
+      "carboidrato": {
+        "slot": "carb_lt",
+        "opcoes": [
+          "Pão integral",
+          "Banana prata",
+          "Aveia em flocos"
+        ],
+        "gramas_ref": 60
+      },
+      "gordura": {
+        "slot": "gord_lt",
+        "opcoes": [
+          "Pasta de amendoim",
+          "Castanha de caju"
+        ],
+        "gramas_ref": 20
+      }
+    },
+    "nome": "Lanche Tarde Bulk"
+  },
+  {
+    "refeicao": "Lanche da Tarde",
+    "objetivo": "Emagrecimento",
+    "template": {
+      "proteina": {
+        "slot": "prot_lt",
+        "opcoes": [
+          "Whey Protein isolado",
+          "Iogurte grego zero"
+        ],
+        "gramas_ref": 60
+      },
+      "fruta": {
+        "slot": "fruta_lt",
+        "opcoes": [
+          "Banana prata",
+          "Maçã"
+        ],
+        "gramas_ref": 80
+      }
+    },
+    "nome": "Lanche Tarde Emag"
+  },
+  {
+    "refeicao": "Jantar",
+    "objetivo": "Bulking",
+    "template": {
+      "proteina": {
+        "slot": "proteina_jan",
+        "opcoes": [
+          "Carne bovina magra (patinho)",
+          "Frango grelhado",
+          "Salmão grelhado"
+        ],
+        "gramas_ref": 180
+      },
+      "carboidrato": {
+        "slot": "carb_jan",
+        "opcoes": [
+          "Arroz integral cozido",
+          "Batata doce cozida",
+          "Macarrão integral cozido"
+        ],
+        "gramas_ref": 180
+      },
+      "leguminosa": {
+        "slot": "legum_jan",
+        "opcoes": [
+          "Feijão preto cozido",
+          "Lentilha cozida"
+        ],
+        "gramas_ref": 100
+      },
+      "vegetal": {
+        "slot": "veg_jan",
+        "opcoes": [
+          "Alface",
+          "Tomate",
+          "Brócolis cozido"
+        ],
+        "gramas_ref": 100
+      },
+      "gordura": {
+        "slot": "gord_jan",
+        "opcoes": [
+          "Azeite de oliva"
+        ],
+        "gramas_ref": 10
+      }
+    },
+    "nome": "Jantar Bulk"
+  },
+  {
+    "refeicao": "Jantar",
+    "objetivo": "Emagrecimento",
+    "template": {
+      "proteina": {
+        "slot": "proteina_jan",
+        "opcoes": [
+          "Frango grelhado",
+          "Tilápia grelhada",
+          "Ovos inteiros"
+        ],
+        "gramas_ref": 150
+      },
+      "carboidrato": {
+        "slot": "carb_jan",
+        "opcoes": [
+          "Arroz integral cozido",
+          "Batata doce cozida"
+        ],
+        "gramas_ref": 100
+      },
+      "leguminosa": {
+        "slot": "legum_jan",
+        "opcoes": [
+          "Feijão carioca cozido",
+          "Lentilha cozida"
+        ],
+        "gramas_ref": 80
+      },
+      "vegetal": {
+        "slot": "veg_jan",
+        "opcoes": [
+          "Alface",
+          "Tomate",
+          "Abobrinha refogada"
+        ],
+        "gramas_ref": 100
+      },
+      "gordura": {
+        "slot": "gord_jan",
+        "opcoes": [
+          "Azeite de oliva"
+        ],
+        "gramas_ref": 10
+      }
+    },
+    "nome": "Jantar Emag"
+  },
+  {
+    "refeicao": "Ceia",
+    "objetivo": "Bulking",
+    "template": {
+      "proteina": {
+        "slot": "prot_ceia",
+        "opcoes": [
+          "Iogurte natural desnatado",
+          "Whey Protein concentrado"
+        ],
+        "gramas_ref": 200
+      },
+      "carboidrato": {
+        "slot": "carb_ceia",
+        "opcoes": [
+          "Aveia em flocos",
+          "Granola sem açúcar",
+          "Banana prata"
+        ],
+        "gramas_ref": 40
+      },
+      "gordura": {
+        "slot": "gord_ceia",
+        "opcoes": [
+          "Castanha de caju",
+          "Pasta de amendoim"
+        ],
+        "gramas_ref": 20
+      }
+    },
+    "nome": "Ceia Bulk"
+  },
+  {
+    "refeicao": "Ceia",
+    "objetivo": "Emagrecimento",
+    "template": {
+      "proteina": {
+        "slot": "prot_ceia",
+        "opcoes": [
+          "Iogurte natural desnatado",
+          "Queijo cottage"
+        ],
+        "gramas_ref": 150
+      },
+      "fruta": {
+        "slot": "fruta_ceia",
+        "opcoes": [
+          "Morango",
+          "Maçã"
+        ],
+        "gramas_ref": 80
+      }
+    },
+    "nome": "Ceia Emag"
+  },
+  {
+    "refeicao": "Café da Manhã",
+    "objetivo": "Cutting",
+    "nome": "Café Cutting",
+    "template": {
+      "proteina": {
+        "slot": "proteina_cafe",
+        "opcoes": [
+          "Ovos inteiros",
+          "Whey Protein isolado",
+          "Iogurte grego zero"
+        ],
+        "gramas_ref": 100
+      },
+      "carboidrato": {
+        "slot": "carb_cafe",
+        "opcoes": [
+          "Aveia em flocos",
+          "Pão integral",
+          "Crepioca"
+        ],
+        "gramas_ref": 40
+      },
+      "fruta": {
+        "slot": "fruta_cafe",
+        "opcoes": [
+          "Morango",
+          "Maçã",
+          "Mamão formosa"
+        ],
+        "gramas_ref": 80
+      },
+      "gordura": {
+        "slot": "gord_cafe",
+        "opcoes": [
+          "Pasta de amendoim",
+          "Castanha de caju"
+        ],
+        "gramas_ref": 15
+      }
+    }
+  },
+  {
+    "refeicao": "Lanche da Manhã",
+    "objetivo": "Cutting",
+    "nome": "Lanche Manhã Cutting",
+    "template": {
+      "proteina": {
+        "slot": "prot_lm",
+        "opcoes": [
+          "Iogurte grego zero",
+          "Queijo cottage",
+          "Whey Protein isolado"
+        ],
+        "gramas_ref": 120
+      },
+      "fruta": {
+        "slot": "fruta_lm",
+        "opcoes": [
+          "Maçã",
+          "Morango",
+          "Mamão formosa"
+        ],
+        "gramas_ref": 100
+      }
+    }
+  },
+  {
+    "refeicao": "Almoço",
+    "objetivo": "Cutting",
+    "nome": "Almoço Cutting",
+    "template": {
+      "proteina": {
+        "slot": "proteina_alm",
+        "opcoes": [
+          "Frango grelhado",
+          "Tilápia grelhada",
+          "Carne bovina magra (patinho)"
+        ],
+        "gramas_ref": 180
+      },
+      "carboidrato": {
+        "slot": "carb_alm",
+        "opcoes": [
+          "Arroz integral cozido",
+          "Batata doce cozida",
+          "Quinoa cozida"
+        ],
+        "gramas_ref": 130
+      },
+      "leguminosa": {
+        "slot": "legum_alm",
+        "opcoes": [
+          "Feijão carioca cozido",
+          "Lentilha cozida"
+        ],
+        "gramas_ref": 80
+      },
+      "vegetal": {
+        "slot": "veg_alm",
+        "opcoes": [
+          "Brócolis cozido",
+          "Alface",
+          "Tomate",
+          "Pepino"
+        ],
+        "gramas_ref": 120
+      },
+      "gordura": {
+        "slot": "gord_alm",
+        "opcoes": [
+          "Azeite de oliva"
+        ],
+        "gramas_ref": 8
+      }
+    }
+  },
+  {
+    "refeicao": "Lanche da Tarde",
+    "objetivo": "Cutting",
+    "nome": "Lanche Tarde Cutting",
+    "template": {
+      "proteina": {
+        "slot": "prot_lt",
+        "opcoes": [
+          "Whey Protein isolado",
+          "Ovos inteiros",
+          "Iogurte grego zero"
+        ],
+        "gramas_ref": 80
+      },
+      "carboidrato": {
+        "slot": "carb_lt",
+        "opcoes": [
+          "Banana prata",
+          "Aveia em flocos"
+        ],
+        "gramas_ref": 40
+      },
+      "gordura": {
+        "slot": "gord_lt",
+        "opcoes": [
+          "Castanha de caju",
+          "Amêndoas"
+        ],
+        "gramas_ref": 15
+      }
+    }
+  },
+  {
+    "refeicao": "Jantar",
+    "objetivo": "Cutting",
+    "nome": "Jantar Cutting",
+    "template": {
+      "proteina": {
+        "slot": "proteina_jan",
+        "opcoes": [
+          "Frango grelhado",
+          "Tilápia grelhada",
+          "Peixe grelhado (genérico)"
+        ],
+        "gramas_ref": 180
+      },
+      "carboidrato": {
+        "slot": "carb_jan",
+        "opcoes": [
+          "Arroz integral cozido",
+          "Batata doce cozida"
+        ],
+        "gramas_ref": 100
+      },
+      "leguminosa": {
+        "slot": "legum_jan",
+        "opcoes": [
+          "Feijão carioca cozido",
+          "Lentilha cozida"
+        ],
+        "gramas_ref": 70
+      },
+      "vegetal": {
+        "slot": "veg_jan",
+        "opcoes": [
+          "Alface",
+          "Tomate",
+          "Brócolis cozido",
+          "Abobrinha refogada"
+        ],
+        "gramas_ref": 120
+      },
+      "gordura": {
+        "slot": "gord_jan",
+        "opcoes": [
+          "Azeite de oliva"
+        ],
+        "gramas_ref": 8
+      }
+    }
+  },
+  {
+    "refeicao": "Ceia",
+    "objetivo": "Cutting",
+    "nome": "Ceia Cutting",
+    "template": {
+      "proteina": {
+        "slot": "prot_ceia",
+        "opcoes": [
+          "Queijo cottage",
+          "Iogurte grego zero",
+          "Whey Protein isolado"
+        ],
+        "gramas_ref": 150
+      },
+      "gordura": {
+        "slot": "gord_ceia",
+        "opcoes": [
+          "Castanha de caju",
+          "Pasta de amendoim"
+        ],
+        "gramas_ref": 10
+      }
+    }
+  },
+  {
+    "refeicao": "Café da Manhã",
+    "objetivo": "Manutenção",
+    "nome": "Café Manutenção",
+    "template": {
+      "proteina": {
+        "slot": "proteina_cafe",
+        "opcoes": [
+          "Ovos inteiros",
+          "Queijo branco (minas frescal)",
+          "Whey Protein concentrado"
+        ],
+        "gramas_ref": 90
+      },
+      "carboidrato": {
+        "slot": "carb_cafe",
+        "opcoes": [
+          "Pão integral",
+          "Aveia em flocos",
+          "Tapioca (goma)"
+        ],
+        "gramas_ref": 50
+      },
+      "fruta": {
+        "slot": "fruta_cafe",
+        "opcoes": [
+          "Banana prata",
+          "Mamão formosa",
+          "Maçã"
+        ],
+        "gramas_ref": 100
+      },
+      "gordura": {
+        "slot": "gord_cafe",
+        "opcoes": [
+          "Pasta de amendoim",
+          "Castanha de caju"
+        ],
+        "gramas_ref": 15
+      },
+      "suplemento": {
+        "slot": "creatina",
+        "opcoes": [
+          "Creatina monohidratada"
+        ],
+        "gramas_ref": 5
+      }
+    }
+  },
+  {
+    "refeicao": "Lanche da Manhã",
+    "objetivo": "Manutenção",
+    "nome": "Lanche Manhã Manutenção",
+    "template": {
+      "fruta": {
+        "slot": "fruta_lm",
+        "opcoes": [
+          "Maçã",
+          "Mamão formosa",
+          "Banana prata"
+        ],
+        "gramas_ref": 130
+      },
+      "proteina": {
+        "slot": "prot_lm",
+        "opcoes": [
+          "Iogurte natural desnatado",
+          "Queijo cottage"
+        ],
+        "gramas_ref": 120
+      },
+      "gordura": {
+        "slot": "gord_lm",
+        "opcoes": [
+          "Castanha de caju",
+          "Amêndoas",
+          "Nozes"
+        ],
+        "gramas_ref": 20
+      }
+    }
+  },
+  {
+    "refeicao": "Almoço",
+    "objetivo": "Manutenção",
+    "nome": "Almoço Manutenção",
+    "template": {
+      "proteina": {
+        "slot": "proteina_alm",
+        "opcoes": [
+          "Frango grelhado",
+          "Carne bovina magra (patinho)",
+          "Tilápia grelhada"
+        ],
+        "gramas_ref": 160
+      },
+      "carboidrato": {
+        "slot": "carb_alm",
+        "opcoes": [
+          "Arroz integral cozido",
+          "Arroz branco cozido",
+          "Batata doce cozida"
+        ],
+        "gramas_ref": 160
+      },
+      "leguminosa": {
+        "slot": "legum_alm",
+        "opcoes": [
+          "Feijão carioca cozido",
+          "Feijão preto cozido",
+          "Lentilha cozida"
+        ],
+        "gramas_ref": 90
+      },
+      "vegetal": {
+        "slot": "veg_alm",
+        "opcoes": [
+          "Brócolis cozido",
+          "Abobrinha refogada",
+          "Couve refogada"
+        ],
+        "gramas_ref": 100
+      },
+      "gordura": {
+        "slot": "gord_alm",
+        "opcoes": [
+          "Azeite de oliva"
+        ],
+        "gramas_ref": 10
+      }
+    }
+  },
+  {
+    "refeicao": "Lanche da Tarde",
+    "objetivo": "Manutenção",
+    "nome": "Lanche Tarde Manutenção",
+    "template": {
+      "proteina": {
+        "slot": "prot_lt",
+        "opcoes": [
+          "Whey Protein concentrado",
+          "Iogurte natural desnatado",
+          "Ovos inteiros"
+        ],
+        "gramas_ref": 70
+      },
+      "carboidrato": {
+        "slot": "carb_lt",
+        "opcoes": [
+          "Pão integral",
+          "Banana prata",
+          "Aveia em flocos"
+        ],
+        "gramas_ref": 50
+      },
+      "gordura": {
+        "slot": "gord_lt",
+        "opcoes": [
+          "Pasta de amendoim",
+          "Castanha de caju"
+        ],
+        "gramas_ref": 15
+      }
+    }
+  },
+  {
+    "refeicao": "Jantar",
+    "objetivo": "Manutenção",
+    "nome": "Jantar Manutenção",
+    "template": {
+      "proteina": {
+        "slot": "proteina_jan",
+        "opcoes": [
+          "Frango grelhado",
+          "Carne bovina magra (patinho)",
+          "Salmão grelhado"
+        ],
+        "gramas_ref": 160
+      },
+      "carboidrato": {
+        "slot": "carb_jan",
+        "opcoes": [
+          "Arroz integral cozido",
+          "Batata doce cozida",
+          "Macarrão integral cozido"
+        ],
+        "gramas_ref": 140
+      },
+      "leguminosa": {
+        "slot": "legum_jan",
+        "opcoes": [
+          "Feijão preto cozido",
+          "Lentilha cozida"
+        ],
+        "gramas_ref": 90
+      },
+      "vegetal": {
+        "slot": "veg_jan",
+        "opcoes": [
+          "Alface",
+          "Tomate",
+          "Brócolis cozido"
+        ],
+        "gramas_ref": 100
+      },
+      "gordura": {
+        "slot": "gord_jan",
+        "opcoes": [
+          "Azeite de oliva"
+        ],
+        "gramas_ref": 10
+      }
+    }
+  },
+  {
+    "refeicao": "Ceia",
+    "objetivo": "Manutenção",
+    "nome": "Ceia Manutenção",
+    "template": {
+      "proteina": {
+        "slot": "prot_ceia",
+        "opcoes": [
+          "Iogurte natural desnatado",
+          "Queijo cottage"
+        ],
+        "gramas_ref": 170
+      },
+      "carboidrato": {
+        "slot": "carb_ceia",
+        "opcoes": [
+          "Aveia em flocos",
+          "Banana prata"
+        ],
+        "gramas_ref": 30
+      },
+      "gordura": {
+        "slot": "gord_ceia",
+        "opcoes": [
+          "Castanha de caju",
+          "Pasta de amendoim"
+        ],
+        "gramas_ref": 15
+      }
+    }
+  },
+  {
+    "refeicao": "Café da Manhã",
+    "objetivo": "Recomposição",
+    "nome": "Café Recomposição",
+    "template": {
+      "proteina": {
+        "slot": "proteina_cafe",
+        "opcoes": [
+          "Ovos inteiros",
+          "Whey Protein isolado",
+          "Iogurte grego zero"
+        ],
+        "gramas_ref": 110
+      },
+      "carboidrato": {
+        "slot": "carb_cafe",
+        "opcoes": [
+          "Aveia em flocos",
+          "Pão integral",
+          "Crepioca"
+        ],
+        "gramas_ref": 45
+      },
+      "fruta": {
+        "slot": "fruta_cafe",
+        "opcoes": [
+          "Banana prata",
+          "Morango",
+          "Mamão formosa"
+        ],
+        "gramas_ref": 80
+      },
+      "gordura": {
+        "slot": "gord_cafe",
+        "opcoes": [
+          "Pasta de amendoim",
+          "Castanha de caju"
+        ],
+        "gramas_ref": 15
+      },
+      "suplemento": {
+        "slot": "creatina",
+        "opcoes": [
+          "Creatina monohidratada"
+        ],
+        "gramas_ref": 5
+      }
+    }
+  },
+  {
+    "refeicao": "Lanche da Manhã",
+    "objetivo": "Recomposição",
+    "nome": "Lanche Manhã Recomposição",
+    "template": {
+      "proteina": {
+        "slot": "prot_lm",
+        "opcoes": [
+          "Iogurte grego zero",
+          "Whey Protein isolado",
+          "Queijo cottage"
+        ],
+        "gramas_ref": 130
+      },
+      "fruta": {
+        "slot": "fruta_lm",
+        "opcoes": [
+          "Maçã",
+          "Morango",
+          "Mamão formosa"
+        ],
+        "gramas_ref": 100
+      },
+      "gordura": {
+        "slot": "gord_lm",
+        "opcoes": [
+          "Amêndoas",
+          "Castanha de caju"
+        ],
+        "gramas_ref": 15
+      }
+    }
+  },
+  {
+    "refeicao": "Almoço",
+    "objetivo": "Recomposição",
+    "nome": "Almoço Recomposição",
+    "template": {
+      "proteina": {
+        "slot": "proteina_alm",
+        "opcoes": [
+          "Frango grelhado",
+          "Carne bovina magra (patinho)",
+          "Tilápia grelhada"
+        ],
+        "gramas_ref": 180
+      },
+      "carboidrato": {
+        "slot": "carb_alm",
+        "opcoes": [
+          "Arroz integral cozido",
+          "Batata doce cozida",
+          "Quinoa cozida"
+        ],
+        "gramas_ref": 140
+      },
+      "leguminosa": {
+        "slot": "legum_alm",
+        "opcoes": [
+          "Feijão carioca cozido",
+          "Lentilha cozida",
+          "Grão-de-bico cozido"
+        ],
+        "gramas_ref": 90
+      },
+      "vegetal": {
+        "slot": "veg_alm",
+        "opcoes": [
+          "Brócolis cozido",
+          "Abobrinha refogada",
+          "Couve refogada",
+          "Alface"
+        ],
+        "gramas_ref": 120
+      },
+      "gordura": {
+        "slot": "gord_alm",
+        "opcoes": [
+          "Azeite de oliva"
+        ],
+        "gramas_ref": 10
+      }
+    }
+  },
+  {
+    "refeicao": "Lanche da Tarde",
+    "objetivo": "Recomposição",
+    "nome": "Lanche Tarde Recomposição",
+    "template": {
+      "proteina": {
+        "slot": "prot_lt",
+        "opcoes": [
+          "Whey Protein isolado",
+          "Ovos inteiros",
+          "Iogurte grego zero"
+        ],
+        "gramas_ref": 90
+      },
+      "carboidrato": {
+        "slot": "carb_lt",
+        "opcoes": [
+          "Banana prata",
+          "Aveia em flocos",
+          "Pão integral"
+        ],
+        "gramas_ref": 45
+      },
+      "gordura": {
+        "slot": "gord_lt",
+        "opcoes": [
+          "Pasta de amendoim",
+          "Castanha de caju",
+          "Amêndoas"
+        ],
+        "gramas_ref": 15
+      }
+    }
+  },
+  {
+    "refeicao": "Jantar",
+    "objetivo": "Recomposição",
+    "nome": "Jantar Recomposição",
+    "template": {
+      "proteina": {
+        "slot": "proteina_jan",
+        "opcoes": [
+          "Frango grelhado",
+          "Salmão grelhado",
+          "Carne bovina magra (patinho)"
+        ],
+        "gramas_ref": 180
+      },
+      "carboidrato": {
+        "slot": "carb_jan",
+        "opcoes": [
+          "Arroz integral cozido",
+          "Batata doce cozida"
+        ],
+        "gramas_ref": 120
+      },
+      "leguminosa": {
+        "slot": "legum_jan",
+        "opcoes": [
+          "Feijão carioca cozido",
+          "Lentilha cozida"
+        ],
+        "gramas_ref": 80
+      },
+      "vegetal": {
+        "slot": "veg_jan",
+        "opcoes": [
+          "Alface",
+          "Tomate",
+          "Brócolis cozido",
+          "Abobrinha refogada"
+        ],
+        "gramas_ref": 120
+      },
+      "gordura": {
+        "slot": "gord_jan",
+        "opcoes": [
+          "Azeite de oliva"
+        ],
+        "gramas_ref": 10
+      }
+    }
+  },
+  {
+    "refeicao": "Ceia",
+    "objetivo": "Recomposição",
+    "nome": "Ceia Recomposição",
+    "template": {
+      "proteina": {
+        "slot": "prot_ceia",
+        "opcoes": [
+          "Queijo cottage",
+          "Iogurte grego zero",
+          "Whey Protein isolado"
+        ],
+        "gramas_ref": 180
+      },
+      "gordura": {
+        "slot": "gord_ceia",
+        "opcoes": [
+          "Castanha de caju",
+          "Pasta de amendoim"
+        ],
+        "gramas_ref": 15
+      }
+    }
+  }
+]

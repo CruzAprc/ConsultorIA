@@ -1,0 +1,1719 @@
+[
+  {
+    "nome": "Supino Reto com Barra",
+    "grupo": "Peito",
+    "subgrupo": "Peito médio",
+    "equipamento": "Barra + banco",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro",
+      "lesão punho"
+    ]
+  },
+  {
+    "nome": "Supino Inclinado com Halter",
+    "grupo": "Peito",
+    "subgrupo": "Peito superior",
+    "equipamento": "Halteres + banco inclinado",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Supino Reto com Halter",
+    "grupo": "Peito",
+    "subgrupo": "Peito médio",
+    "equipamento": "Halteres + banco",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Supino Inclinado com Barra",
+    "grupo": "Peito",
+    "subgrupo": "Peito superior",
+    "equipamento": "Barra + banco inclinado",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Supino Declinado com Barra",
+    "grupo": "Peito",
+    "subgrupo": "Peito inferior",
+    "equipamento": "Barra + banco declinado",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Supino Reto no Smith",
+    "grupo": "Peito",
+    "subgrupo": "Peito médio",
+    "equipamento": "Smith machine",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Crucifixo Máquina",
+    "grupo": "Peito",
+    "subgrupo": "Peito médio",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão ombro severa"
+    ]
+  },
+  {
+    "nome": "Crucifixo com Halter",
+    "grupo": "Peito",
+    "subgrupo": "Peito médio",
+    "equipamento": "Halteres + banco",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Crucifixo no Cross",
+    "grupo": "Peito",
+    "subgrupo": "Peito médio/inferior",
+    "equipamento": "Cross over",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Cross Over Polia Alta",
+    "grupo": "Peito",
+    "subgrupo": "Peito inferior",
+    "equipamento": "Cross over",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Cross Over Polia Baixa",
+    "grupo": "Peito",
+    "subgrupo": "Peito superior",
+    "equipamento": "Cross over",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Flexão de Braço",
+    "grupo": "Peito",
+    "subgrupo": "Peito médio",
+    "equipamento": "Peso corporal",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão punho"
+    ]
+  },
+  {
+    "nome": "Pulldown Barra Pronada",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal",
+    "equipamento": "Polia alta + barra",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Pulldown Barra Supinada",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal inferior",
+    "equipamento": "Polia alta + barra",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Pulldown Triângulo",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal",
+    "equipamento": "Polia alta + triângulo",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Remada Curvada com Barra Pronada",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal/Romboide",
+    "equipamento": "Barra",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão lombar"
+    ]
+  },
+  {
+    "nome": "Remada Curvada com Halter",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal",
+    "equipamento": "Halter + banco",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Remada Articulada Baixa Supinada",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal inferior",
+    "equipamento": "Máquina articulada",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Remada Articulada Baixa Pronada",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal",
+    "equipamento": "Máquina articulada",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Remada Baixa no Triângulo",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal",
+    "equipamento": "Polia baixa + triângulo",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Remada Cavalinho",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal",
+    "equipamento": "Máquina T-bar",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão lombar"
+    ]
+  },
+  {
+    "nome": "Barra Fixa Pegada Pronada",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal",
+    "equipamento": "Barra fixa",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Barra Fixa Pegada Supinada",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal/Bíceps",
+    "equipamento": "Barra fixa",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Barra Fixa no Graviton",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal",
+    "equipamento": "Graviton",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Remada Unilateral com Halter",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal",
+    "equipamento": "Halter + banco",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Pullover com Halter",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal/Serrátil",
+    "equipamento": "Halter + banco",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Rosca Direta com Barra",
+    "grupo": "Bíceps",
+    "subgrupo": "Bíceps cabeça longa/curta",
+    "equipamento": "Barra reta",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "epicondilite"
+    ]
+  },
+  {
+    "nome": "Rosca Direta com Barra W",
+    "grupo": "Bíceps",
+    "subgrupo": "Bíceps",
+    "equipamento": "Barra W",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "epicondilite"
+    ]
+  },
+  {
+    "nome": "Rosca Alternada com Halter",
+    "grupo": "Bíceps",
+    "subgrupo": "Bíceps",
+    "equipamento": "Halteres",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "epicondilite"
+    ]
+  },
+  {
+    "nome": "Rosca Martelo com Halter",
+    "grupo": "Bíceps",
+    "subgrupo": "Braquial/Braquiorradial",
+    "equipamento": "Halteres",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Rosca Concentrada",
+    "grupo": "Bíceps",
+    "subgrupo": "Bíceps pico",
+    "equipamento": "Halter",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Rosca Inclinada com Halter",
+    "grupo": "Bíceps",
+    "subgrupo": "Bíceps cabeça longa",
+    "equipamento": "Halteres + banco inclinado",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Rosca Banco Scott",
+    "grupo": "Bíceps",
+    "subgrupo": "Bíceps cabeça curta",
+    "equipamento": "Barra + banco Scott",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "epicondilite"
+    ]
+  },
+  {
+    "nome": "Rosca Inversa com Barra",
+    "grupo": "Bíceps",
+    "subgrupo": "Braquiorradial",
+    "equipamento": "Barra",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "epicondilite"
+    ]
+  },
+  {
+    "nome": "Rosca no Cross",
+    "grupo": "Bíceps",
+    "subgrupo": "Bíceps",
+    "equipamento": "Cross over",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Tríceps Pulley",
+    "grupo": "Tríceps",
+    "subgrupo": "Tríceps cabeça lateral",
+    "equipamento": "Polia alta + barra",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "epicondilite"
+    ]
+  },
+  {
+    "nome": "Tríceps Corda",
+    "grupo": "Tríceps",
+    "subgrupo": "Tríceps cabeça lateral",
+    "equipamento": "Polia alta + corda",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "epicondilite"
+    ]
+  },
+  {
+    "nome": "Tríceps Testa com Barra",
+    "grupo": "Tríceps",
+    "subgrupo": "Tríceps cabeça longa",
+    "equipamento": "Barra + banco",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão cotovelo",
+      "epicondilite"
+    ]
+  },
+  {
+    "nome": "Tríceps Francês com Halter",
+    "grupo": "Tríceps",
+    "subgrupo": "Tríceps cabeça longa",
+    "equipamento": "Halter",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão cotovelo"
+    ]
+  },
+  {
+    "nome": "Tríceps Coice com Halter",
+    "grupo": "Tríceps",
+    "subgrupo": "Tríceps cabeça lateral",
+    "equipamento": "Halter",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Tríceps Mergulho no Banco",
+    "grupo": "Tríceps",
+    "subgrupo": "Tríceps",
+    "equipamento": "Banco",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Tríceps Mergulho Paralelas",
+    "grupo": "Tríceps",
+    "subgrupo": "Tríceps/Peito",
+    "equipamento": "Paralelas",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Tríceps Francês no Cross",
+    "grupo": "Tríceps",
+    "subgrupo": "Tríceps cabeça longa",
+    "equipamento": "Cross over + corda",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Elevação Lateral com Halter",
+    "grupo": "Ombro",
+    "subgrupo": "Deltóide lateral",
+    "equipamento": "Halteres",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão ombro severa"
+    ]
+  },
+  {
+    "nome": "Elevação Lateral no Cross",
+    "grupo": "Ombro",
+    "subgrupo": "Deltóide lateral",
+    "equipamento": "Cross over",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Elevação Lateral Máquina",
+    "grupo": "Ombro",
+    "subgrupo": "Deltóide lateral",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Desenvolvimento com Halter",
+    "grupo": "Ombro",
+    "subgrupo": "Deltóide anterior/lateral",
+    "equipamento": "Halteres + banco",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Desenvolvimento Máquina",
+    "grupo": "Ombro",
+    "subgrupo": "Deltóide anterior/lateral",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro severa"
+    ]
+  },
+  {
+    "nome": "Desenvolvimento com Barra",
+    "grupo": "Ombro",
+    "subgrupo": "Deltóide anterior",
+    "equipamento": "Barra",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Desenvolvimento Arnold",
+    "grupo": "Ombro",
+    "subgrupo": "Deltóide completo",
+    "equipamento": "Halteres",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Elevação Frontal com Halter",
+    "grupo": "Ombro",
+    "subgrupo": "Deltóide anterior",
+    "equipamento": "Halteres",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Elevação Frontal na Polia",
+    "grupo": "Ombro",
+    "subgrupo": "Deltóide anterior",
+    "equipamento": "Polia baixa",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Face Pull",
+    "grupo": "Post. Ombro",
+    "subgrupo": "Deltóide posterior/Rotadores",
+    "equipamento": "Polia alta + corda",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Crucifixo Inverso na Máquina",
+    "grupo": "Post. Ombro",
+    "subgrupo": "Deltóide posterior",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Crucifixo Inverso com Halter",
+    "grupo": "Post. Ombro",
+    "subgrupo": "Deltóide posterior",
+    "equipamento": "Halteres",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Crucifixo Inverso na Polia",
+    "grupo": "Post. Ombro",
+    "subgrupo": "Deltóide posterior",
+    "equipamento": "Cross over",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Encolhimento com Halter",
+    "grupo": "Trapézio",
+    "subgrupo": "Trapézio superior",
+    "equipamento": "Halteres",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Encolhimento com Barra",
+    "grupo": "Trapézio",
+    "subgrupo": "Trapézio superior",
+    "equipamento": "Barra",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Encolhimento na Polia",
+    "grupo": "Trapézio",
+    "subgrupo": "Trapézio superior",
+    "equipamento": "Polia baixa",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Agachamento Livre com Barra",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps/Glúteo",
+    "equipamento": "Barra + rack",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão joelho severa",
+      "lesão lombar"
+    ]
+  },
+  {
+    "nome": "Agachamento no Smith",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps/Glúteo",
+    "equipamento": "Smith machine",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão joelho severa"
+    ]
+  },
+  {
+    "nome": "Agachamento Sumô com Halter",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps/Adutor",
+    "equipamento": "Halter",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão joelho"
+    ]
+  },
+  {
+    "nome": "Agachamento Búlgaro",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps/Glúteo",
+    "equipamento": "Halteres + banco",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão joelho"
+    ]
+  },
+  {
+    "nome": "Leg Press 45°",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps/Glúteo",
+    "equipamento": "Leg press",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão joelho severa"
+    ]
+  },
+  {
+    "nome": "Cadeira Extensora",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "tendinite rotuliana"
+    ]
+  },
+  {
+    "nome": "Hack Squat",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps",
+    "equipamento": "Máquina hack",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão joelho severa"
+    ]
+  },
+  {
+    "nome": "Passada com Halter",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps/Glúteo",
+    "equipamento": "Halteres",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão joelho"
+    ]
+  },
+  {
+    "nome": "Avanço no Smith",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps/Glúteo",
+    "equipamento": "Smith machine",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão joelho"
+    ]
+  },
+  {
+    "nome": "Mesa Flexora",
+    "grupo": "Posterior",
+    "subgrupo": "Isquiotibiais",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Cadeira Flexora",
+    "grupo": "Posterior",
+    "subgrupo": "Isquiotibiais",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Stiff com Barra",
+    "grupo": "Posterior",
+    "subgrupo": "Isquiotibiais/Glúteo",
+    "equipamento": "Barra",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão lombar"
+    ]
+  },
+  {
+    "nome": "Stiff com Halter",
+    "grupo": "Posterior",
+    "subgrupo": "Isquiotibiais/Glúteo",
+    "equipamento": "Halteres",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão lombar"
+    ]
+  },
+  {
+    "nome": "Levantamento Terra",
+    "grupo": "Posterior",
+    "subgrupo": "Posterior/Lombar/Glúteo",
+    "equipamento": "Barra",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão lombar",
+      "hérnia de disco"
+    ]
+  },
+  {
+    "nome": "Levantamento Terra Sumô",
+    "grupo": "Posterior",
+    "subgrupo": "Posterior/Glúteo/Adutor",
+    "equipamento": "Barra",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão lombar"
+    ]
+  },
+  {
+    "nome": "Bom Dia (Good Morning)",
+    "grupo": "Posterior",
+    "subgrupo": "Isquiotibiais/Lombar",
+    "equipamento": "Barra",
+    "nivel_minimo": "Avançado",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão lombar"
+    ]
+  },
+  {
+    "nome": "Elevação Pélvica com Barra",
+    "grupo": "Glúteo",
+    "subgrupo": "Glúteo máximo",
+    "equipamento": "Barra + banco",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão lombar severa"
+    ]
+  },
+  {
+    "nome": "Elevação Pélvica na Máquina",
+    "grupo": "Glúteo",
+    "subgrupo": "Glúteo máximo",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Elevação Pélvica com Halter",
+    "grupo": "Glúteo",
+    "subgrupo": "Glúteo máximo",
+    "equipamento": "Halter + banco",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Elevação Pélvica Solo",
+    "grupo": "Glúteo",
+    "subgrupo": "Glúteo máximo",
+    "equipamento": "Peso corporal",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Banco Abdutor",
+    "grupo": "Glúteo",
+    "subgrupo": "Glúteo médio",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Glúteo Máquina",
+    "grupo": "Glúteo",
+    "subgrupo": "Glúteo máximo",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Glúteo no Cross Perna Estendida",
+    "grupo": "Glúteo",
+    "subgrupo": "Glúteo máximo",
+    "equipamento": "Cross over + caneleira",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Glúteo no Cross Perna Flexionada",
+    "grupo": "Glúteo",
+    "subgrupo": "Glúteo máximo",
+    "equipamento": "Cross over + caneleira",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Agachamento Sumo (foco glúteo)",
+    "grupo": "Glúteo",
+    "subgrupo": "Glúteo/Adutor",
+    "equipamento": "Halter ou barra",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão joelho"
+    ]
+  },
+  {
+    "nome": "Panturrilha no Leg 45°",
+    "grupo": "Panturrilha",
+    "subgrupo": "Gastrocnêmio",
+    "equipamento": "Leg press",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão tendão Aquiles"
+    ]
+  },
+  {
+    "nome": "Panturrilha Sentado",
+    "grupo": "Panturrilha",
+    "subgrupo": "Sóleo",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão tendão Aquiles"
+    ]
+  },
+  {
+    "nome": "Panturrilha em Pé na Máquina",
+    "grupo": "Panturrilha",
+    "subgrupo": "Gastrocnêmio",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão tendão Aquiles"
+    ]
+  },
+  {
+    "nome": "Panturrilha no Smith",
+    "grupo": "Panturrilha",
+    "subgrupo": "Gastrocnêmio",
+    "equipamento": "Smith + step",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão tendão Aquiles"
+    ]
+  },
+  {
+    "nome": "Abdominal Supra Solo",
+    "grupo": "Abdômen",
+    "subgrupo": "Reto abdominal superior",
+    "equipamento": "Solo",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "hérnia abdominal"
+    ]
+  },
+  {
+    "nome": "Abdominal Infra Solo",
+    "grupo": "Abdômen",
+    "subgrupo": "Reto abdominal inferior",
+    "equipamento": "Solo",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "hérnia abdominal"
+    ]
+  },
+  {
+    "nome": "Abdominal Prancha Solo",
+    "grupo": "Abdômen",
+    "subgrupo": "Core completo",
+    "equipamento": "Solo",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isométrico",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Abdominal Reto na Polia",
+    "grupo": "Abdômen",
+    "subgrupo": "Reto abdominal",
+    "equipamento": "Polia alta + corda",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Abdominal Infra Banco Declinado",
+    "grupo": "Abdômen",
+    "subgrupo": "Reto abdominal inferior",
+    "equipamento": "Banco declinado",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão lombar"
+    ]
+  },
+  {
+    "nome": "Abdominal Infra na Paralela",
+    "grupo": "Abdômen",
+    "subgrupo": "Reto abdominal inferior",
+    "equipamento": "Paralelas",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Abdominal Remador",
+    "grupo": "Abdômen",
+    "subgrupo": "Reto abdominal",
+    "equipamento": "Solo",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão lombar"
+    ]
+  },
+  {
+    "nome": "Abdominal Supra na Bola",
+    "grupo": "Abdômen",
+    "subgrupo": "Reto abdominal superior",
+    "equipamento": "Bola suíça",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Abdominal Oblíquo Solo",
+    "grupo": "Abdômen",
+    "subgrupo": "Oblíquos",
+    "equipamento": "Solo",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Prancha Lateral",
+    "grupo": "Abdômen",
+    "subgrupo": "Oblíquos/Core",
+    "equipamento": "Solo",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isométrico",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Rosca Punho Supinada com Halter",
+    "grupo": "Antebraço",
+    "subgrupo": "Flexores de punho",
+    "equipamento": "Halter",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "epicondilite"
+    ]
+  },
+  {
+    "nome": "Rosca Punho Pronada com Barra",
+    "grupo": "Antebraço",
+    "subgrupo": "Extensores de punho",
+    "equipamento": "Barra",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "epicondilite"
+    ]
+  },
+  {
+    "nome": "Banco Adutor",
+    "grupo": "Adutor",
+    "subgrupo": "Adutores",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão quadril"
+    ]
+  },
+  {
+    "nome": "Cadeira Abdutora",
+    "grupo": "Abdutor",
+    "subgrupo": "Abdutores/Glúteo médio",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Hiperextensão Lombar",
+    "grupo": "Lombar",
+    "subgrupo": "Eretores da espinha",
+    "equipamento": "Banco romano",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "hérnia de disco",
+      "lesão lombar severa"
+    ]
+  },
+  {
+    "nome": "Extensão Lombar na Máquina",
+    "grupo": "Lombar",
+    "subgrupo": "Eretores da espinha",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "hérnia de disco"
+    ]
+  },
+  {
+    "nome": "Agachamento Frontal",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps",
+    "equipamento": "Barra + rack",
+    "nivel_minimo": "Avançado",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão joelho",
+      "lesão punho"
+    ]
+  },
+  {
+    "nome": "Leg Press Horizontal",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps/Glúteo",
+    "equipamento": "Leg press horizontal",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Sissy Squat",
+    "grupo": "Quadríceps",
+    "subgrupo": "Reto femoral",
+    "equipamento": "Peso corporal",
+    "nivel_minimo": "Avançado",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão joelho"
+    ]
+  },
+  {
+    "nome": "Step Up",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps/Glúteo",
+    "equipamento": "Step + halteres",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão joelho"
+    ]
+  },
+  {
+    "nome": "Supino Inclinado Máquina",
+    "grupo": "Peito",
+    "subgrupo": "Peito superior",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Peck Deck",
+    "grupo": "Peito",
+    "subgrupo": "Peito médio",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Remada Alta com Barra",
+    "grupo": "Ombro",
+    "subgrupo": "Deltóide lateral/Trapézio",
+    "equipamento": "Barra",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro",
+      "impacto subacromial"
+    ]
+  },
+  {
+    "nome": "Stiff Romeno",
+    "grupo": "Posterior",
+    "subgrupo": "Isquiotibiais",
+    "equipamento": "Barra",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão lombar"
+    ]
+  },
+  {
+    "nome": "Flexora Unilateral",
+    "grupo": "Posterior",
+    "subgrupo": "Isquiotibiais",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Elevação Lateral Sentado",
+    "grupo": "Ombro",
+    "subgrupo": "Deltóide lateral",
+    "equipamento": "Halteres + banco",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Rosca Martelo Alternada",
+    "grupo": "Bíceps",
+    "subgrupo": "Braquial",
+    "equipamento": "Halteres",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Rosca Direta com Halter",
+    "grupo": "Bíceps",
+    "subgrupo": "Bíceps",
+    "equipamento": "Halteres",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "epicondilite"
+    ]
+  },
+  {
+    "nome": "Tríceps Coice no Cross",
+    "grupo": "Tríceps",
+    "subgrupo": "Tríceps cabeça lateral",
+    "equipamento": "Cross over",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Tríceps Pulley Invertido",
+    "grupo": "Tríceps",
+    "subgrupo": "Tríceps cabeça medial",
+    "equipamento": "Polia alta + barra reta",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Desenvolvimento Militar com Barra",
+    "grupo": "Ombro",
+    "subgrupo": "Deltóide anterior",
+    "equipamento": "Barra + rack",
+    "nivel_minimo": "Avançado",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro",
+      "lesão lombar"
+    ]
+  },
+  {
+    "nome": "Elevação Frontal com Barra",
+    "grupo": "Ombro",
+    "subgrupo": "Deltóide anterior",
+    "equipamento": "Barra",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Leg Extension Unilateral",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "tendinite rotuliana"
+    ]
+  },
+  {
+    "nome": "Avanço com Halter",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps/Glúteo",
+    "equipamento": "Halteres",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão joelho"
+    ]
+  },
+  {
+    "nome": "Panturrilha Unilateral",
+    "grupo": "Panturrilha",
+    "subgrupo": "Gastrocnêmio",
+    "equipamento": "Step",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão tendão Aquiles"
+    ]
+  },
+  {
+    "nome": "Remada na Máquina",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Pulldown Unilateral",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal",
+    "equipamento": "Polia alta",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Cadeira Abdutora com Inclinação",
+    "grupo": "Glúteo",
+    "subgrupo": "Glúteo médio",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Agachamento com Halter",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps/Glúteo",
+    "equipamento": "Halteres",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão joelho"
+    ]
+  },
+  {
+    "nome": "Supino Reto Máquina",
+    "grupo": "Peito",
+    "subgrupo": "Peito médio",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Cross Over Central",
+    "grupo": "Peito",
+    "subgrupo": "Peito médio",
+    "equipamento": "Cross over",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Rosca Spider",
+    "grupo": "Bíceps",
+    "subgrupo": "Bíceps cabeça curta",
+    "equipamento": "Halter + banco inclinado",
+    "nivel_minimo": "Avançado",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Tríceps Banco com Peso",
+    "grupo": "Tríceps",
+    "subgrupo": "Tríceps",
+    "equipamento": "Banco + anilha",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Agachamento Goblet",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps/Glúteo",
+    "equipamento": "Halter",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão joelho"
+    ]
+  },
+  {
+    "nome": "Leg Press Unilateral",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps",
+    "equipamento": "Leg press",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Afundo Búlgaro no Smith",
+    "grupo": "Quadríceps",
+    "subgrupo": "Quadríceps/Glúteo",
+    "equipamento": "Smith machine",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão joelho"
+    ]
+  },
+  {
+    "nome": "Remada Alta com Halter",
+    "grupo": "Ombro",
+    "subgrupo": "Deltóide lateral/Trapézio",
+    "equipamento": "Halteres",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Crucifixo Inclinado com Halter",
+    "grupo": "Peito",
+    "subgrupo": "Peito superior",
+    "equipamento": "Halteres + banco inclinado",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Supino Declinado com Halter",
+    "grupo": "Peito",
+    "subgrupo": "Peito inferior",
+    "equipamento": "Halteres + banco declinado",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Remada Curvada com Barra Supinada",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal inferior",
+    "equipamento": "Barra",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão lombar"
+    ]
+  },
+  {
+    "nome": "Pulldown Frente com Corda",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal",
+    "equipamento": "Polia alta + corda",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Rosca Concentrada com Halter",
+    "grupo": "Bíceps",
+    "subgrupo": "Bíceps pico",
+    "equipamento": "Halter + banco",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Tríceps Francês com Barra",
+    "grupo": "Tríceps",
+    "subgrupo": "Tríceps cabeça longa",
+    "equipamento": "Barra + banco",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão cotovelo"
+    ]
+  },
+  {
+    "nome": "Desenvolvimento no Smith",
+    "grupo": "Ombro",
+    "subgrupo": "Deltóide anterior/lateral",
+    "equipamento": "Smith machine",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Elevação Lateral com Elástico",
+    "grupo": "Ombro",
+    "subgrupo": "Deltóide lateral",
+    "equipamento": "Elástico",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Stiff Unilateral",
+    "grupo": "Posterior",
+    "subgrupo": "Isquiotibiais",
+    "equipamento": "Halter",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão lombar"
+    ]
+  },
+  {
+    "nome": "Elevação Pélvica Unilateral",
+    "grupo": "Glúteo",
+    "subgrupo": "Glúteo máximo",
+    "equipamento": "Banco",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Agachamento Hack Invertido",
+    "grupo": "Glúteo",
+    "subgrupo": "Glúteo/Posterior",
+    "equipamento": "Máquina hack",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Panturrilha Bilateral em Pé",
+    "grupo": "Panturrilha",
+    "subgrupo": "Gastrocnêmio",
+    "equipamento": "Step",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão tendão Aquiles"
+    ]
+  },
+  {
+    "nome": "Abdominal Bicicleta",
+    "grupo": "Abdômen",
+    "subgrupo": "Oblíquos/Reto",
+    "equipamento": "Solo",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Mountain Climber",
+    "grupo": "Abdômen",
+    "subgrupo": "Core completo",
+    "equipamento": "Solo",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Pullover na Polia",
+    "grupo": "Costas",
+    "subgrupo": "Dorsal/Serrátil",
+    "equipamento": "Polia alta",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Flexora em Pé Unilateral",
+    "grupo": "Posterior",
+    "subgrupo": "Isquiotibiais",
+    "equipamento": "Máquina",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Rosca 21",
+    "grupo": "Bíceps",
+    "subgrupo": "Bíceps completo",
+    "equipamento": "Barra",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "epicondilite"
+    ]
+  },
+  {
+    "nome": "Abdução de quadril no cross (cabo)",
+    "grupo": "Abdutor",
+    "subgrupo": "Abdutores/Glúteo médio",
+    "equipamento": "Polia baixa",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão quadril"
+    ]
+  },
+  {
+    "nome": "Abdução de quadril deitada",
+    "grupo": "Abdutor",
+    "subgrupo": "Abdutores/Glúteo médio",
+    "equipamento": "Peso corporal",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Abdução com mini band",
+    "grupo": "Abdutor",
+    "subgrupo": "Abdutores/Glúteo médio",
+    "equipamento": "Mini band",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Adução no cross (polia baixa)",
+    "grupo": "Adutor",
+    "subgrupo": "Adutores",
+    "equipamento": "Polia baixa",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão quadril"
+    ]
+  },
+  {
+    "nome": "Agachamento sumô com halter",
+    "grupo": "Adutor",
+    "subgrupo": "Adutores/Quadríceps",
+    "equipamento": "Halter",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "lesão joelho"
+    ]
+  },
+  {
+    "nome": "Adução com bola",
+    "grupo": "Adutor",
+    "subgrupo": "Adutores",
+    "equipamento": "Bola",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Farmer's walk",
+    "grupo": "Antebraço",
+    "subgrupo": "Flexores/Extensores de punho",
+    "equipamento": "Halter",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Wrist roller",
+    "grupo": "Antebraço",
+    "subgrupo": "Flexores/Extensores de punho",
+    "equipamento": "Bastão + corda",
+    "nivel_minimo": "Avançado",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão punho",
+      "epicondilite"
+    ]
+  },
+  {
+    "nome": "Hiperextensão no banco 45°",
+    "grupo": "Lombar",
+    "subgrupo": "Eretores da espinha",
+    "equipamento": "Banco 45°",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "hérnia de disco",
+      "lesão lombar"
+    ]
+  },
+  {
+    "nome": "Good morning com barra",
+    "grupo": "Lombar",
+    "subgrupo": "Eretores da espinha/Isquiotibiais",
+    "equipamento": "Barra",
+    "nivel_minimo": "Avançado",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "hérnia de disco",
+      "lesão lombar"
+    ]
+  },
+  {
+    "nome": "Superman solo",
+    "grupo": "Lombar",
+    "subgrupo": "Eretores da espinha",
+    "equipamento": "Nenhum",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Encolhimento com barra atrás",
+    "grupo": "Trapézio",
+    "subgrupo": "Trapézio superior",
+    "equipamento": "Barra",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Encolhimento na máquina Smith",
+    "grupo": "Trapézio",
+    "subgrupo": "Trapézio superior",
+    "equipamento": "Smith",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Remada alta com barra (trapézio)",
+    "grupo": "Trapézio",
+    "subgrupo": "Trapézio superior",
+    "equipamento": "Barra",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": [
+      "impacto subacromial",
+      "lesão ombro"
+    ]
+  },
+  {
+    "nome": "Farmer's carry",
+    "grupo": "Trapézio",
+    "subgrupo": "Trapézio superior",
+    "equipamento": "Halter pesado",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Composto",
+    "contraindicacoes": []
+  },
+  {
+    "nome": "Crucifixo inverso com halter (inclinado)",
+    "grupo": "Post. Ombro",
+    "subgrupo": "Deltóide posterior",
+    "equipamento": "Halter + Banco",
+    "nivel_minimo": "Intermediário",
+    "tipo": "Isolado",
+    "contraindicacoes": [
+      "lesão ombro severa"
+    ]
+  },
+  {
+    "nome": "Band pull-apart",
+    "grupo": "Post. Ombro",
+    "subgrupo": "Deltóide posterior/Rotadores",
+    "equipamento": "Elástico",
+    "nivel_minimo": "Iniciante",
+    "tipo": "Isolado",
+    "contraindicacoes": []
+  }
+]

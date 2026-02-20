@@ -1,0 +1,451 @@
+[
+  {
+    "nome": "Full Body",
+    "frequencia": 3,
+    "dias": {
+      "A": [
+        "Peito",
+        "Costas",
+        "Quadríceps",
+        "Posterior",
+        "Ombro",
+        "Abdômen"
+      ],
+      "B": [
+        "Peito",
+        "Costas",
+        "Quadríceps",
+        "Glúteo",
+        "Bíceps",
+        "Tríceps"
+      ],
+      "C": [
+        "Peito",
+        "Costas",
+        "Posterior",
+        "Ombro",
+        "Panturrilha",
+        "Abdômen"
+      ]
+    },
+    "nivel_minimo": "Iniciante",
+    "objetivos": [
+      "Emagrecimento",
+      "Manutenção",
+      "Recomposição"
+    ],
+    "notas": "Ideal para iniciantes e emagrecimento. 1-2 exercícios por grupo."
+  },
+  {
+    "nome": "Upper/Lower",
+    "frequencia": 4,
+    "dias": {
+      "A": [
+        "Peito",
+        "Costas",
+        "Ombro",
+        "Bíceps",
+        "Tríceps"
+      ],
+      "B": [
+        "Quadríceps",
+        "Posterior",
+        "Glúteo",
+        "Panturrilha",
+        "Abdômen"
+      ],
+      "C": [
+        "Peito",
+        "Costas",
+        "Ombro",
+        "Bíceps",
+        "Tríceps"
+      ],
+      "D": [
+        "Quadríceps",
+        "Posterior",
+        "Glúteo",
+        "Panturrilha",
+        "Abdômen"
+      ]
+    },
+    "nivel_minimo": "Iniciante",
+    "objetivos": [
+      "Emagrecimento",
+      "Cutting",
+      "Manutenção",
+      "Recomposição"
+    ],
+    "notas": "Boa frequência por grupo (2x/sem). Versátil."
+  },
+  {
+    "nome": "ABC",
+    "frequencia": 3,
+    "dias": {
+      "A": [
+        "Peito",
+        "Tríceps",
+        "Abdômen"
+      ],
+      "B": [
+        "Costas",
+        "Bíceps",
+        "Antebraço"
+      ],
+      "C": [
+        "Quadríceps",
+        "Posterior",
+        "Glúteo",
+        "Panturrilha"
+      ]
+    },
+    "nivel_minimo": "Intermediário",
+    "objetivos": [
+      "Bulking",
+      "Cutting",
+      "Hipertrofia",
+      "Manutenção"
+    ],
+    "notas": "Push/Pull/Legs clássico. Pode repetir 2x na semana (6 dias)."
+  },
+  {
+    "nome": "ABC (2x semana)",
+    "frequencia": 6,
+    "dias": {
+      "A1": [
+        "Peito",
+        "Tríceps",
+        "Abdômen"
+      ],
+      "B1": [
+        "Costas",
+        "Bíceps",
+        "Post. Ombro"
+      ],
+      "C1": [
+        "Quadríceps",
+        "Posterior",
+        "Glúteo",
+        "Panturrilha"
+      ],
+      "A2": [
+        "Peito",
+        "Ombro",
+        "Tríceps"
+      ],
+      "B2": [
+        "Costas",
+        "Bíceps",
+        "Trapézio"
+      ],
+      "C2": [
+        "Quadríceps",
+        "Posterior",
+        "Glúteo",
+        "Abdômen"
+      ]
+    },
+    "nivel_minimo": "Intermediário",
+    "objetivos": [
+      "Bulking",
+      "Hipertrofia"
+    ],
+    "notas": "ABC repetido com variações. Alta frequência por grupo."
+  },
+  {
+    "nome": "ABCD",
+    "frequencia": 4,
+    "dias": {
+      "A": [
+        "Peito",
+        "Tríceps"
+      ],
+      "B": [
+        "Costas",
+        "Bíceps"
+      ],
+      "C": [
+        "Quadríceps",
+        "Panturrilha",
+        "Abdômen"
+      ],
+      "D": [
+        "Ombro",
+        "Posterior",
+        "Glúteo"
+      ]
+    },
+    "nivel_minimo": "Intermediário",
+    "objetivos": [
+      "Bulking",
+      "Cutting",
+      "Hipertrofia"
+    ],
+    "notas": "Boa divisão para 4-5 dias/semana."
+  },
+  {
+    "nome": "ABCDE",
+    "frequencia": 5,
+    "dias": {
+      "A": [
+        "Peito",
+        "Tríceps"
+      ],
+      "B": [
+        "Costas",
+        "Bíceps"
+      ],
+      "C": [
+        "Quadríceps",
+        "Panturrilha"
+      ],
+      "D": [
+        "Ombro",
+        "Trapézio",
+        "Abdômen"
+      ],
+      "E": [
+        "Posterior",
+        "Glúteo"
+      ]
+    },
+    "nivel_minimo": "Intermediário",
+    "objetivos": [
+      "Bulking",
+      "Cutting",
+      "Hipertrofia"
+    ],
+    "notas": "Divisão clássica de 5 dias. Mais volume por grupo."
+  },
+  {
+    "nome": "ABCDEF",
+    "frequencia": 6,
+    "dias": {
+      "A": [
+        "Peito"
+      ],
+      "B": [
+        "Costas"
+      ],
+      "C": [
+        "Quadríceps",
+        "Panturrilha"
+      ],
+      "D": [
+        "Ombro",
+        "Trapézio"
+      ],
+      "E": [
+        "Posterior",
+        "Glúteo"
+      ],
+      "F": [
+        "Bíceps",
+        "Tríceps",
+        "Abdômen"
+      ]
+    },
+    "nivel_minimo": "Avançado",
+    "objetivos": [
+      "Bulking",
+      "Hipertrofia"
+    ],
+    "notas": "Divisão mais comum na base (2040x). Um grupo por dia, alto volume."
+  },
+  {
+    "nome": "Push/Pull/Legs",
+    "frequencia": 6,
+    "dias": {
+      "Push1": [
+        "Peito",
+        "Ombro",
+        "Tríceps"
+      ],
+      "Pull1": [
+        "Costas",
+        "Bíceps",
+        "Post. Ombro"
+      ],
+      "Legs1": [
+        "Quadríceps",
+        "Posterior",
+        "Glúteo",
+        "Panturrilha"
+      ],
+      "Push2": [
+        "Peito",
+        "Ombro",
+        "Tríceps"
+      ],
+      "Pull2": [
+        "Costas",
+        "Bíceps",
+        "Trapézio"
+      ],
+      "Legs2": [
+        "Quadríceps",
+        "Posterior",
+        "Glúteo",
+        "Abdômen"
+      ]
+    },
+    "nivel_minimo": "Intermediário",
+    "objetivos": [
+      "Bulking",
+      "Hipertrofia",
+      "Recomposição"
+    ],
+    "notas": "PPL 2x/semana. Excelente para hipertrofia."
+  },
+  {
+    "nome": "AB (Upper/Lower simplificado)",
+    "frequencia": 4,
+    "dias": {
+      "A": [
+        "Peito",
+        "Costas",
+        "Ombro",
+        "Bíceps",
+        "Tríceps",
+        "Abdômen"
+      ],
+      "B": [
+        "Quadríceps",
+        "Posterior",
+        "Glúteo",
+        "Panturrilha",
+        "Abdômen"
+      ]
+    },
+    "nivel_minimo": "Iniciante",
+    "objetivos": [
+      "Emagrecimento",
+      "Manutenção"
+    ],
+    "notas": "Simplificado. 2-4 dias/semana."
+  },
+  {
+    "nome": "Full Body Feminino (foco glúteo)",
+    "frequencia": 4,
+    "dias": {
+      "A": [
+        "Glúteo",
+        "Posterior",
+        "Peito",
+        "Costas",
+        "Abdômen"
+      ],
+      "B": [
+        "Quadríceps",
+        "Glúteo",
+        "Ombro",
+        "Bíceps",
+        "Tríceps"
+      ],
+      "C": [
+        "Glúteo",
+        "Posterior",
+        "Costas",
+        "Peito",
+        "Abdômen"
+      ],
+      "D": [
+        "Quadríceps",
+        "Glúteo",
+        "Ombro",
+        "Panturrilha"
+      ]
+    },
+    "nivel_minimo": "Iniciante",
+    "objetivos": [
+      "Emagrecimento",
+      "Hipertrofia",
+      "Recomposição"
+    ],
+    "notas": "Adaptado para mulheres com maior frequência de glúteo (3-4x/sem)."
+  },
+  {
+    "nome": "ABCDE Feminino (foco MMII)",
+    "frequencia": 5,
+    "dias": {
+      "A": [
+        "Glúteo",
+        "Posterior"
+      ],
+      "B": [
+        "Peito",
+        "Costas",
+        "Abdômen"
+      ],
+      "C": [
+        "Quadríceps",
+        "Panturrilha"
+      ],
+      "D": [
+        "Ombro",
+        "Bíceps",
+        "Tríceps"
+      ],
+      "E": [
+        "Glúteo",
+        "Posterior",
+        "Abdômen"
+      ]
+    },
+    "nivel_minimo": "Intermediário",
+    "objetivos": [
+      "Hipertrofia",
+      "Bulking",
+      "Recomposição"
+    ],
+    "notas": "2x glúteo/posterior na semana. Ideal para mulheres intermediárias."
+  },
+  {
+    "nome": "PPL 2x + Arms",
+    "frequencia": 7,
+    "dias": {
+      "A": [
+        "Peito",
+        "Ombro",
+        "Tríceps"
+      ],
+      "B": [
+        "Costas",
+        "Bíceps"
+      ],
+      "C": [
+        "Quadríceps",
+        "Posterior",
+        "Glúteo",
+        "Panturrilha"
+      ],
+      "D": [
+        "Peito",
+        "Ombro",
+        "Tríceps"
+      ],
+      "E": [
+        "Costas",
+        "Bíceps"
+      ],
+      "F": [
+        "Quadríceps",
+        "Posterior",
+        "Glúteo",
+        "Panturrilha"
+      ],
+      "G": [
+        "Bíceps",
+        "Tríceps",
+        "Antebraço",
+        "Abdômen"
+      ]
+    },
+    "nivel_minimo": "Avançado",
+    "objetivos": [
+      "Bulking",
+      "Hipertrofia"
+    ],
+    "notas": "Apenas para avançados com boa recuperação. Monitorar sinais de overtraining."
+  }
+]

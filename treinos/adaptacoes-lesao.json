@@ -1,0 +1,82 @@
+{
+  "lesão ombro": {
+    "evitar": ["Supino Reto com Barra", "Desenvolvimento com Barra", "Desenvolvimento com Halter", "Supino Inclinado com Barra", "Crucifixo com Halter", "Tríceps Mergulho Paralelas", "Tríceps Mergulho no Banco", "Remada Alta com Barra", "Desenvolvimento Militar com Barra", "Pullover com Halter"],
+    "substituir_por": ["Crucifixo Máquina", "Supino Reto Máquina", "Supino Inclinado Máquina", "Elevação Lateral Máquina", "Desenvolvimento Máquina", "Cross Over Polia Alta", "Tríceps Corda", "Tríceps Pulley"],
+    "observacao": "Evitar movimentos acima da cabeça e amplitudes extremas. Reduzir carga em supinos. Preferir máquinas com amplitude controlada."
+  },
+  "lesão ombro severa": {
+    "evitar": ["Supino Reto com Barra", "Supino Inclinado com Barra", "Desenvolvimento com Halter", "Desenvolvimento com Barra", "Crucifixo com Halter", "Elevação Lateral com Halter", "Tríceps Mergulho Paralelas", "Pullover com Halter", "Barra Fixa Pegada Pronada", "Remada Alta com Barra"],
+    "substituir_por": ["Crucifixo Máquina", "Cross Over Polia Alta", "Elevação Lateral Máquina", "Desenvolvimento Máquina", "Tríceps Corda", "Barra Fixa no Graviton"],
+    "observacao": "Apenas máquinas para peito e ombro. Amplitude reduzida. Sem movimentos acima da cabeça. Recomenda-se aval de fisioterapeuta."
+  },
+  "lesão joelho": {
+    "evitar": ["Agachamento Livre com Barra", "Agachamento Búlgaro", "Passada com Halter", "Avanço com Halter", "Agachamento Frontal", "Sissy Squat", "Step Up", "Agachamento Sumô com Halter"],
+    "substituir_por": ["Leg Press 45°", "Cadeira Extensora", "Leg Press Horizontal", "Agachamento no Smith"],
+    "observacao": "Evitar amplitudes grandes de flexão. Preferir máquinas com controle de amplitude. Reduzir carga em 30-40%. Não ultrapassar 90° de flexão."
+  },
+  "lesão joelho severa": {
+    "evitar": ["Agachamento Livre com Barra", "Agachamento Búlgaro", "Hack Squat", "Leg Press 45°", "Passada com Halter", "Sissy Squat", "Agachamento Frontal"],
+    "substituir_por": ["Cadeira Extensora", "Leg Press Horizontal", "Leg Extension Unilateral"],
+    "observacao": "Apenas isolados com amplitude controlada. Cadeira extensora com ROM parcial. Recomenda-se aval de ortopedista."
+  },
+  "tendinite rotuliana": {
+    "evitar": ["Cadeira Extensora", "Agachamento Livre com Barra", "Leg Extension Unilateral", "Sissy Squat"],
+    "substituir_por": ["Leg Press 45°", "Agachamento no Smith", "Leg Press Horizontal"],
+    "observacao": "Cadeira extensora piora a tendinite patelar. Preferir exercícios em cadeia cinética fechada. Amplitude parcial."
+  },
+  "lesão lombar": {
+    "evitar": ["Remada Curvada com Barra Pronada", "Stiff com Barra", "Levantamento Terra", "Levantamento Terra Sumô", "Bom Dia (Good Morning)", "Stiff Romeno", "Remada Cavalinho", "Abdominal Remador", "Abdominal Infra Banco Declinado", "Agachamento Livre com Barra", "Desenvolvimento Militar com Barra"],
+    "substituir_por": ["Remada na Máquina", "Remada Articulada Baixa Supinada", "Pulldown Barra Pronada", "Mesa Flexora", "Cadeira Flexora", "Hiperextensão Lombar", "Leg Press 45°", "Agachamento no Smith"],
+    "observacao": "Zero exercícios com flexão do tronco sob carga. Preferir máquinas com apoio. Stiff e terra estão proibidos. Fortalecer core com prancha."
+  },
+  "hérnia de disco": {
+    "evitar": ["Levantamento Terra", "Levantamento Terra Sumô", "Stiff com Barra", "Stiff Romeno", "Bom Dia (Good Morning)", "Remada Curvada com Barra Pronada", "Agachamento Livre com Barra", "Hiperextensão Lombar", "Extensão Lombar na Máquina"],
+    "substituir_por": ["Remada na Máquina", "Pulldown Barra Pronada", "Mesa Flexora", "Leg Press 45°", "Abdominal Prancha Solo"],
+    "observacao": "ENCAMINHAR MÉDICO. Evitar qualquer compressão axial da coluna. Apenas máquinas com suporte."
+  },
+  "epicondilite": {
+    "evitar": ["Rosca Direta com Barra", "Rosca Direta com Barra W", "Rosca Alternada com Halter", "Rosca Banco Scott", "Rosca Inversa com Barra", "Tríceps Testa com Barra", "Rosca Punho Supinada com Halter", "Rosca Punho Pronada com Barra", "Rosca Direta com Halter"],
+    "substituir_por": ["Rosca Martelo com Halter", "Rosca no Cross", "Tríceps Corda", "Tríceps Coice com Halter"],
+    "observacao": "Evitar pegada supinada e pronada forçada. Preferir pegada neutra. Reduzir carga em 40-50%. Usar munhequeira."
+  },
+  "lesão punho": {
+    "evitar": ["Supino Reto com Barra", "Flexão de Braço", "Agachamento Frontal", "Desenvolvimento com Barra"],
+    "substituir_por": ["Supino Reto com Halter", "Supino Reto Máquina", "Desenvolvimento com Halter", "Leg Press 45°"],
+    "observacao": "Evitar hiperextensão do punho. Preferir halteres (pegada neutra) ou máquinas."
+  },
+  "lesão cotovelo": {
+    "evitar": ["Tríceps Testa com Barra", "Tríceps Francês com Halter", "Rosca Banco Scott"],
+    "substituir_por": ["Tríceps Corda", "Tríceps Pulley", "Tríceps Coice com Halter", "Rosca Martelo com Halter"],
+    "observacao": "Evitar extensão completa sob carga. Reduzir amplitude nos tríceps."
+  },
+  "lesão tendão Aquiles": {
+    "evitar": ["Panturrilha no Leg 45°", "Panturrilha Sentado", "Panturrilha em Pé na Máquina", "Panturrilha no Smith", "Panturrilha Unilateral"],
+    "substituir_por": [],
+    "observacao": "Suspender treino de panturrilha até liberação médica. Evitar impacto (corrida, pliometria)."
+  },
+  "lesão quadril": {
+    "evitar": ["Banco Adutor", "Agachamento Sumô com Halter", "Agachamento Sumo (foco glúteo)", "Passada com Halter"],
+    "substituir_por": ["Leg Press 45°", "Cadeira Extensora", "Elevação Pélvica na Máquina", "Mesa Flexora"],
+    "observacao": "Evitar abdução e adução extrema. Reduzir amplitude de agachamentos. Evitar rotação externa forçada."
+  },
+  "lesão calcanhar": {
+    "evitar": ["Panturrilha no Leg 45°", "Panturrilha Sentado", "Panturrilha em Pé na Máquina"],
+    "substituir_por": [],
+    "observacao": "Suspender panturrilha. Evitar exercícios em pé prolongados. Preferir máquinas sentado para MMII."
+  },
+  "lesão pé": {
+    "evitar": ["Agachamento Livre com Barra", "Passada com Halter", "Step Up", "Panturrilha em Pé na Máquina"],
+    "substituir_por": ["Leg Press 45°", "Cadeira Extensora", "Mesa Flexora", "Agachamento no Smith"],
+    "observacao": "Evitar carga sobre os pés. Preferir exercícios sentado ou deitado."
+  },
+  "impacto subacromial": {
+    "evitar": ["Remada Alta com Barra", "Desenvolvimento com Barra", "Elevação Lateral com Halter"],
+    "substituir_por": ["Desenvolvimento Máquina", "Elevação Lateral Máquina", "Elevação Lateral no Cross"],
+    "observacao": "Evitar abdução acima de 90°. Rotação interna com abdução é o pior padrão."
+  },
+  "hérnia abdominal": {
+    "evitar": ["Abdominal Supra Solo", "Abdominal Infra Solo"],
+    "substituir_por": ["Abdominal Prancha Solo", "Prancha Lateral"],
+    "observacao": "Apenas isométricos. Evitar flexão e extensão do tronco. Consultar médico."
+  }
+}
