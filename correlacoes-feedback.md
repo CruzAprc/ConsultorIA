@@ -1,429 +1,197 @@
-# Correlações de Feedback
+# Correlações de Feedback — Análise Estruturada
 
 **Total Feedbacks:** 1137
 **Total Novos Planos:** 1969
+**Taxa de retorno (feedback/plano):** 57.7%
+**Amostra analisada em detalhe:** 20 feedbacks (out/2025)
+**Última atualização:** 2026-02-23
 
-## NPS (Net Promoter Score)
+---
 
+## 1. NPS e Satisfação Geral
 
-## Mudanças Solicitadas
+### Sentimento dos Motivos (amostra de 20+ respostas)
+
+| Sentimento | Exemplos | Frequência |
+|------------|----------|------------|
+| **Positivo forte** | "Top", "excelente profissional", "tá ajudando mudar meu físico", "indico pela constância e evolução" | Maioria |
+| **Positivo com ressalva** | "Treino e dieta muito bons, dá liberdade pra fazer o necessário" | Moderado |
+| **Negativo (acompanhamento)** | "Não parece que tem acompanhamento mesmo, levantei dúvida se não era IA" | Raro mas CRÍTICO |
+| **Negativo (comunicação)** | "Maior problema às vezes é na comunicação, não passa dieta e treino e..." | Raro mas CRÍTICO |
 
-### Mudança de Treino
-- ### Ajustes no Treino
+### Alerta principal
+> **"Parece IA"** — Pelo menos 2 alunos questionaram se o acompanhamento era feito por IA. Isso é red flag grave para retenção. Ação: humanizar mais as respostas de feedback, incluir observações personalizadas sobre o progresso do aluno.
 
-**Divisão e Frequência:**  
-- **Como estava:** 6 dias por semana com foco em : 1
-- ### Ajustes no Treino
+---
 
-**Divisão e Frequência:**  
-- **Como estava:** Treino em Upper-Lower com desc: 1
-- ### Ajustes no Treino
+## 2. Aderência ao Treino (amostra de 20)
 
-**Divisão e Frequência:**  
-- **Como estava:** Treino dividido em 5 dias com : 1
-- ### Ajustes no Treino
+| Aderência | N | % |
+|-----------|---|---|
+| 100% (seguiu completo) | 14 | 70% |
+| Sim/Seguiu (sem percentual) | 5 | 25% |
+| Parcial | 1 | 5% |
+| Não seguiu | 0 | 0% |
 
-**Divisão e Frequência:**  
-- **Como estava:** 5 dias de treino dividido entr: 1
-- ### Ajustes no Treino
+**Insight:** Aderência ao treino é ALTA (95%+ seguem). O treino não é o problema na maioria dos casos.
 
-**Divisão e Frequência:**  
-**Como estava:** Treino com 3 dias na semana foca: 1
-- ### Ajustes no Treino
+---
 
-**Divisão e Frequência:**  
-- **Como estava:** 5 dias de treino com foco em g: 1
-- ### Ajustes no Treino
-
-**Divisão e Frequência:**  
-- **Como estava:** Divisão muscular: ABCD (Peito : 1
-- ### Ajustes no Treino
-
-**Divisão e Frequência:**  
-**Como estava:** Treinamento dividido em 5 dias, : 1
-- ### Ajustes no Treino
-
-**Divisão e Frequência:**  
-**Como estava:** 6 treinos semanais, com divisão : 1
-- ### Ajustes no Treino
-
-**Divisão e Frequência:**  
-- **Como estava:** 5 divisões de treino, 6 dias/s: 1
-
-### Mudança de Dieta
-- ### Ajustes na Dieta
-
-**Calorias Totais:** 
-- **Como estava:** Aproximadamente 2,800 kcal 
-- **O que: 1
-- ### Ajustes na Dieta
-
-**Calorias Totais:**  
-- Como estava: Não disponível  
-- O que mudou: 2020 Kca: 1
-- ### Ajustes na Dieta
-
-**Calorias Totais:**  
-- **Como estava:** 2.250 kcal  
-- **O que mudou:** Mant: 1
-- ### Ajustes na Dieta
-
-**Calorias Totais:**  
-Como estava: Não disponível na dieta anterior.  
-O que : 1
-- ### Ajustes na Dieta
-
-**Calorias Totais:**  
-- **Como estava:** Aproximadamente 3.200 kcal (consider: 1
-- ### Ajustes na Dieta
-
-**Calorias Totais**: 2,150 kcal (anterior) vs 2,000 kcal (atual: pode haver va: 1
-- ### Ajustes na Dieta
-
-**Calorias Totais:**  
-- **Como estava:** Aproximadamente 2.600 kcal (estimati: 1
-- ### Ajustes na Dieta
-
-**Calorias Totais:**  
-- **Como estava:** Aproximadamente 2200 kcal (estimativ: 1
-- ### Ajustes na Dieta
-
-**Calorias Totais:**  
-**Dieta Anterior:** Não fornecida explicitamente.  
-**D: 1
-- ### Ajustes na Dieta
-
-**Calorias Totais:** 2110 kcal (anterior não especificado, mas a redução é evi: 1
-
-## Motivos (campo 'motivo')
-
-- .: 5
-- Top: 3
-- Indicaria … com toda certeza maior problema as vezes é na comunicação da pessoa está ali vendo se realmente tem evolução, e não passa dieta e treino e: 2
-- Já indiquei e indicaria novamente: 2
-- Acompanhamento, versatilidade de treino: 2
-- Eu indicaria pois alem de ser pelo gnomo que eu acompanho bastante e acho foda,tmb é pela estrutura da dieta e dos treinos, que apesar de não ter sido: 2
-- Acabei respondendo essa resposta em um outro tópico durante o feedback!: 2
-- Indicaria sim, mais tenho poucos amigos então, fica meio complicado, pra achar alguém disposto a fazer o trampo : 2
-- O treino é a dieta é muito boa e dar liberdade a nós pra fazer o que é necessário. : 2
-- Pq tá ajudando a mudar muito meu físico : 2
-- excelente profissional : 2
-- Indico pela constância e evolução gradual que to tendo depois que iniciei a consultoria: 2
-- Gosto do estilo do projeto e da forma que GG se posiciona : 2
-- Eu indico com certeza meu irmão vai fazer também pode ter certeza que vou segui certinho para conseguir muda esse ano : 2
-- É muito bom, mas as vezes ainda é meio perdido. Não parece que tem acompanhamento mesmo, tanto que já levantei a dúvida se não era IA. Parece que uma : 2
-
-## Análise de Feedbacks (primeiros 20)
-
-### Feedback #1 — Diogo Henrique Souza da Silva (tenente-breno)
-1. Identificação do Aluno:  
-   - Nome: Diogo Henrique Souza da Silva  
-   - Data do feedback: 23/10/2025 
-
-2. Treino:  
-   - Aderência ao plano de treino: 100%  
-   - Rendimento percebido: Bem intensos, muito bom, com alta performance  
-   - Dores ou incômodos relatados: Não há queixas  
-   - Observações relevantes para ajuste de treino: Nenhuma necessidade de ajuste reportada. 
-
-3. Dieta:  
-   - Aderência à dieta: Seguiu corretamente, mas com falta de alguns alimentos específicos  
-   - Fome f
-
-### Feedback #2 — Mauro Medeiros (tenente-breno)
-1. Identificação do Aluno:  
-   - Nome: Mauro Ferraz Alves Medeiros  
-   - Data do feedback: 24/10/2025
-
-2. Treino:  
-   - Aderência ao plano de treino: Sim  
-   - Rendimento percebido: Satisfatório  
-   - Dores ou incômodos relatados: Forte dor no ombro direito, dificultando o desenvolvimento e o supino  
-   - Observações relevantes para ajuste de treino: Considerar substituir ou adaptar os exercícios que envolvem o ombro direito.
-
-3. Dieta:  
-   - Aderência à dieta: Não  
-   - Fome fora de hor
-
-### Feedback #3 — Venancio Rocha (pantera)
-1. Identificação do Aluno:  
-   - Nome: Venancio Rocha  
-   - Data do feedback: 24/10/2025
-
-2. Treino:  
-   - Aderência ao plano de treino: 100%  
-   - Rendimento percebido: Bom  
-   - Dores ou incômodos relatados: Não há queixas  
-   - Observações relevantes para ajuste de treino: Nenhuma
-
-3. Dieta:  
-   - Aderência à dieta: 100%  
-   - Fome fora de hora: Um pouco após a última refeição  
-   - Ingestão de água: 3 litros diários  
-   - Observações relevantes para ajuste de dieta: Considerar ajus
-
-### Feedback #4 — Claudinei Silva Miranda (pantera)
-1. Identificação do Aluno:  
-   - Nome: Claudinei Silva Miranda  
-   - Data do feedback: 24/10/2025
-
-2. Treino:  
-   - Aderência ao plano de treino: 100%  
-   - Rendimento percebido: Nota 8  
-   - Dores ou incômodos relatados: Somente dor muscular nos primeiros dias  
-   - Observações relevantes para ajuste de treino: Não há necessidade de ajustes significativos no treino.
-
-3. Dieta:  
-   - Aderência à dieta: 100%  
-   - Fome fora de hora: Às vezes  
-   - Ingestão de água: Acima da recomendação 
-
-### Feedback #5 — Henry Gabriel de Miranda (gnomo)
-1. Identificação do Aluno:  
-   - Nome: Henry Gabriel de Miranda  
-   - Data do feedback: 24/10/2025  
-   - Peso inicial: 80,00 kg (19/09/2025)  
-   - Peso atualizado: 79,5 kg (24/10/2025)  
-   - Variação do peso: -0,5 kg em 35 dias  
-
-2. Treino:  
-   - Aderência ao plano de treino: 100%  
-   - Rendimento percebido: Muito bom, especialmente em treino de bíceps  
-   - Dores ou incômodos relatados: Incômodo na lombar, conforme recomendação do fisioterapeuta, mas sem outras queixas significativas. 
-
-### Feedback #6 — Thiago Monteiro Gonçalves (gnomo)
-1. Identificação do Aluno:  
-   - Nome: Thiago Monteiro Gonçalves  
-   - Data do feedback: 24/10/2025  
-   - Peso inicial: 85,2 kg (22/09/2025)  
-   - Peso atualizado: 82,6 kg (24/10/2025)  
-   - Variação do peso: -2,6 kg em 1 mês  
-
-2. Treino:  
-   - Aderência ao plano de treino: Seguiu 100%  
-   - Rendimento percebido: Avalia que poderia ter entregado mais performance  
-   - Dores ou incômodos relatados: Não há queixas  
-   - Observações relevantes para ajuste de treino: Considerar aumento gra
-
-### Feedback #7 — Thiago Monteiro Gonçalves (gnomo)
-1. Identificação do Aluno:  
-   - Nome: Thiago Monteiro Gonçalves  
-   - Data do feedback: 24/10/2025  
-   - Peso inicial: 85,2 kg (22/09/2025)  
-   - Peso atualizado: 82,6 kg (24/10/2025)  
-   - Variação do peso: -2,6 kg em 1 mês  
-
-2. Treino:  
-   - Aderência ao plano de treino: 100%  
-   - Rendimento percebido: Aluno sente que poderia ter entregado mais performance.  
-   - Dores ou incômodos relatados: Não há queixas.  
-   - Observações relevantes para ajuste de treino: Considerar acompanhame
-
-### Feedback #8 — Claudinei Silva Miranda (pantera)
-1. Identificação do Aluno:  
-   - Nome: Claudinei Silva Miranda  
-   - Data do feedback: 24/10/2025  
-   - Peso inicial: 82 kg (19/08/2025)  
-   - Peso atualizado: 76,4 kg (24/10/2025)  
-   - Variação do peso: -5,6 kg em 2 meses  
-
-2. Treino:  
-   - Aderência ao plano de treino: 100%  
-   - Rendimento percebido: Nota 8  
-   - Dores ou incômodos relatados: Dor muscular nos primeiros dias  
-   - Observações relevantes para ajuste de treino: Nenhuma
-
-3. Dieta:  
-   - Aderência à dieta: 100%  
-   - 
-
-### Feedback #9 — Daniel dias (gnomo)
-1. Identificação do Aluno:  
-   - Nome: Daniel Vitor Dias  
-   - Data do feedback: 24/10/2025  
-   - Peso inicial: 80kg (21/08/2025)  
-   - Peso atualizado: 79,30kg (24/10/2025)  
-   - Variação do peso: -0,70kg em 2 meses  
-
-2. Treino:  
-   - Aderência ao plano de treino: 100%  
-   - Rendimento percebido: Muito bem, cada vez mais evoluindo  
-   - Dores ou incômodos relatados: Não há queixas  
-   - Observações relevantes para ajuste de treino: Nenhuma  
-
-3. Dieta:  
-   - Aderência à dieta: Seguiu
-
-### Feedback #10 — Vander de Jesus Cassoma Diogo (cabo-gabriel)
-1. Identificação do Aluno:  
-   - Nome: Vander de Jesus Cassoma Diogo  
-   - Data do feedback: 24/10/2025  
-   - Peso inicial: 65kg em 22/09/2025  
-   - Peso atualizado: 63kg em 24/10/2025  
-   - Variação do peso: -2kg em 1 mês  
-
-2. Treino:  
-   - Aderência ao plano de treino: Seguiu 100%  
-   - Rendimento percebido: A avaliação ainda não foi realizada  
-   - Dores ou incômodos relatados: Não há queixas  
-
-3. Dieta:  
-   - Aderência à dieta: Seguiu parcialmente  
-   - Fome fora de hora: Não  
- 
-
-### Feedback #11 — Andressa Costa Marques dos Santos (gnomo)
-1. Identificação do Aluno:  
-   - Nome: Andressa Costa Marques dos Santos  
-   - Data do feedback: 24/10/2025  
-   - Peso inicial: 72 kg (21/08/2025)  
-   - Peso atualizado: 73,4 kg (24/10/2025)  
-   - Variação do peso: +1,4 kg em 2 meses  
-
-2. Treino:  
-   - Aderência ao plano de treino: Sim  
-   - Rendimento percebido: Bom, com mudanças visíveis no corpo  
-   - Dores ou incômodos relatados: Não há queixas  
-
-3. Dieta:  
-   - Aderência à dieta: Sim  
-   - Fome fora de hora: Não  
-   - Ingestão 
-
-### Feedback #12 — Ramon cleyton Silva (gnomo)
-1. Identificação do Aluno:  
-   - Nome: Ramon Cleyton Silva Curimbaba  
-   - Data do feedback: 24/10/2025  
-   - Peso inicial: 76,0 kg (21/08/2025)  
-   - Peso atualizado: 81,5 kg (24/10/2025)  
-   - Variação do peso: +5,5 kg em 2 meses e 3 dias  
-
-2. Treino:  
-   - Aderência ao plano de treino: Seguiu da forma que foi passado  
-   - Rendimento percebido: Acredita que está caminhando e já apresentou mudanças, mas busca mais progresso  
-   - Dores ou incômodos relatados: Encontrou desconforto no 
-
-### Feedback #13 — André Felipe da Silva (gnomo)
-1. Identificação do Aluno:  
-   - Nome: André Felipe da Silva  
-   - Data do feedback: 24/10/2025  
-   - Peso inicial: 64,00kg (23/08/2025)  
-   - Peso atualizado: 65,2kg (24/10/2025)  
-   - Variação do peso: +1,2kg em 2 meses  
-
-2. Treino:  
-   - Aderência ao plano de treino: 100%  
-   - Rendimento percebido: Muito bom, evoluindo a cada dia  
-   - Dores ou incômodos relatados: Nenhum  
-   - Observações relevantes para ajuste de treino: N/A  
-
-3. Dieta:  
-   - Aderência à dieta: 100%  
-   - Fome
-
-### Feedback #14 — Falcessone alves maciel (gnomo)
-1. Identificação do Aluno:  
-   - Nome: Falcessone Alves Maciel  
-   - Data do feedback: 24/10/2025  
-   - Peso inicial: 93 kg (20/08/2025)  
-   - Peso atualizado: 98 kg (24/10/2025)  
-   - Variação do peso: +5 kg em 2 meses  
-
-2. Treino:  
-   - Aderência ao plano de treino: 100%  
-   - Rendimento percebido: Treino intenso  
-   - Dores ou incômodos relatados: Não há queixas  
-
-3. Dieta:  
-   - Aderência à dieta: Sim  
-   - Fome fora de hora: Na primeira semana, sim  
-   - Ingestão de água: 3,5 l
-
-### Feedback #15 — Guilherme Moderoso Silva (gnomo)
-1. Identificação do Aluno:  
-   - Nome: Guilherme Moderoso Silva  
-   - Data do feedback: 24/10/2025  
-   - Peso inicial: 59 kg (10/09/2025)  
-   - Peso atualizado: 59,8 kg (24/10/2025)  
-   - Variação do peso: +0,8 kg em 1 mês e 14 dias  
-  
-2. Treino:  
-   - Aderência ao plano de treino: 100%  
-   - Rendimento percebido: Inicialmente baixo, melhorou com o tempo.  
-   - Dores ou incômodos relatados: Queixas no Leg Press devido ao aumento de séries e repetições.  
-   - Observações relevantes par
-
-### Feedback #16 — Lucas Oliveira (gnomo)
-1. Identificação do Aluno:  
-   - Nome: Lucas Oliveira Nicésio  
-   - Data do feedback: 24/10/2025  
-   - Peso inicial: 67kg (16/09/2025)  
-   - Peso atualizado: 70,1kg (24/10/2025)  
-   - Variação do peso: +3,1kg em 38 dias  
-
-2. Treino:  
-   - Aderência ao plano de treino: 100%  
-   - Rendimento percebido: Muito bom  
-   - Dores ou incômodos relatados: Não há queixas  
-   - Observações relevantes para ajuste de treino: Nenhuma  
-
-3. Dieta:  
-   - Aderência à dieta: 100%  
-   - Fome fora de hor
-
-### Feedback #17 — José Saulo Albuquerque de Abreu (cabo-gabriel)
-1. Identificação do Aluno:  
-   - Nome: José Saulo Albuquerque de Abreu  
-   - Data do feedback: 24/10/2025  
-   - Peso inicial: 79,00 kg (23/09/2025)  
-   - Peso atualizado: 80,00 kg (24/10/2025)  
-   - Variação do peso: +1,00 kg em 31 dias  
-
-2. Treino:  
-   - Aderência ao plano de treino: Sim, seguiu bem durante a última semana  
-   - Rendimento percebido: Ótimo  
-   - Dores ou incômodos relatados: No começo houve dores, mas se adaptou bem  
-   - Observações relevantes para ajuste de treino: 
-
-### Feedback #18 — Fábio Humberto Fernandes Loureiro (pantera)
-1. Identificação do Aluno:  
-   - Nome: Fábio Humberto Fernandes Loureiro  
-   - Data do feedback: 25/10/2025  
-   - Peso inicial: 70 kg (22/09/2025)  
-   - Peso atualizado: 71,1 kg (25/10/2025)  
-   - Variação do peso: +1,1 kg em 1 mês  
-
-2. Treino:  
-   - Aderência ao plano de treino: Sim  
-   - Rendimento percebido: Bom, com aumento de 5 a 10 kg nas cargas semanalmente  
-   - Dores ou incômodos relatados: Leve formigamento no braço direito, possivelmente relacionado ao nervo ulnar comprimido 
-
-### Feedback #19 — Ramon cleyton Silva (gnomo)
-1. Identificação do Aluno:  
-   - Nome: Ramon Cleyton Silva Curimbaba  
-   - Data do feedback: 25/10/2025  
-   - Peso inicial: 76,0 kg (21/08/2025)  
-   - Peso atualizado: 81,5 kg (25/10/2025)  
-   - Variação do peso: +5,5 kg em 2 meses e 4 dias  
-
-2. Treino:  
-   - Aderência ao plano de treino: Seguiu corretamente  
-   - Rendimento percebido: Acredita ter avançado, mas busca mais mudanças  
-   - Dores ou incômodos relatados: Somente no início, ajustou a rotina para evitar desconforto durante tr
-
-### Feedback #20 — Thiago Damasceno Teixeira (gnomo)
-1. Identificação do Aluno:  
-   - Nome: Thiago Damasceno Teixeira  
-   - Data do feedback: 25/10/2025  
-   - Peso inicial: 102,75kg (19/08/2025)  
-   - Peso atualizado: 100kg  
-   - Variação do peso: -2,75kg em 2 meses  
-
-2. Treino:  
-   - Aderência ao plano de treino: Seguiu 100%  
-   - Rendimento percebido: Ótimo, com evolução significativa em poucas semanas  
-   - Dores ou incômodos relatados: Nenhuma dor  
-   - Observações relevantes para ajuste de treino: Nenhuma  
-
-3. Dieta:  
-   - Aderênc
+## 3. Aderência à Dieta (amostra de 20)
+
+| Aderência | N | % |
+|-----------|---|---|
+| 100%/Sim | 10 | 66.7% |
+| Parcial | 3 | 20% |
+| Não | 2 | 13.3% |
+| Sem dados | 5 | — |
+
+**Insight:** Aderência à dieta é significativamente MENOR que ao treino. ~33% não seguem 100%. Dieta é o gargalo principal de resultado.
+
+**Padrão identificado:** Alunos que não seguem a dieta geralmente reportam:
+1. Falta de alimentos específicos (não encontram no mercado)
+2. Dificuldade com quantidade de refeições
+3. Fome fora de hora
+
+---
+
+## 4. Dores e Incômodos (amostra de 20)
+
+| Tipo | N | % | Ação recomendada |
+|------|---|---|------------------|
+| Sem dor | 12 | 60% | Manter plano |
+| Dor muscular nos primeiros dias (DOMS) | 3 | 15% | Normal, não requer ajuste |
+| Ombro (direito predominante) | 2 | 10% | Adaptar peito/ombro → máquinas |
+| Lombar | 1 | 5% | Remover terra/agachamento livre → máquinas |
+| Leg Press (sobrecarga) | 1 | 5% | Reduzir volume de séries |
+| Formigamento (nervo) | 1 | 5% | Encaminhar fisioterapeuta |
+
+**Insight:** 60% não tem dor nenhuma. Dos 40% com alguma queixa, metade é DOMS (adaptação normal). Dores reais concentram em **ombro** e **lombar** — os mesmos padrões do `adaptacoes-lesao.json`.
+
+---
+
+## 5. Variação de Peso (amostra de 15 com dados completos)
+
+### Quem GANHOU peso (provavelmente bulking)
+| Aluno | Variação | Período | Ritmo |
+|-------|----------|---------|-------|
+| Ramon Cleyton | +5.5 kg | 2 meses | +2.75 kg/mês |
+| Falcessone | +5.0 kg | 2 meses | +2.50 kg/mês |
+| Lucas Oliveira | +3.1 kg | 38 dias | +2.45 kg/mês |
+| Andressa Santos | +1.4 kg | 2 meses | +0.70 kg/mês |
+| André Felipe | +1.2 kg | 2 meses | +0.60 kg/mês |
+| Fábio Loureiro | +1.1 kg | 1 mês | +1.10 kg/mês |
+| José Saulo | +1.0 kg | 31 dias | +1.00 kg/mês |
+| Guilherme Moderoso | +0.8 kg | 1.5 mês | +0.53 kg/mês |
+
+**Média de ganho:** +1.45 kg/mês
+**Alerta:** Ramon (+2.75/mês) e Falcessone (+2.50/mês) estão ganhando rápido demais — possível excesso de gordura. Reduzir superávit em 5%.
+
+### Quem PERDEU peso (provavelmente cutting/emag)
+| Aluno | Variação | Período | Ritmo |
+|-------|----------|---------|-------|
+| Claudinei | -5.6 kg | 2 meses | -2.80 kg/mês |
+| Thiago Damasceno | -2.75 kg | 2 meses | -1.38 kg/mês |
+| Thiago Monteiro | -2.6 kg | 1 mês | -2.60 kg/mês |
+| Vander Diogo | -2.0 kg | 1 mês | -2.00 kg/mês |
+| Daniel Dias | -0.7 kg | 2 meses | -0.35 kg/mês |
+| Henry Gabriel | -0.5 kg | 35 dias | -0.43 kg/mês |
+
+**Média de perda:** -1.59 kg/mês
+**Alerta:** Daniel (-0.35/mês) e Henry (-0.43/mês) estão perdendo muito devagar — possível platô ou baixa aderência à dieta. Aumentar déficit em 10% ou revisar aderência.
+
+---
+
+## 6. Fome Fora de Hora
+
+| Resposta | N | % |
+|----------|---|---|
+| Não tem fome | 6 | 46% |
+| Às vezes / Um pouco | 4 | 31% |
+| Sim, na primeira semana | 2 | 15% |
+| Sim, constante | 1 | 8% |
+| Sem dados | 7 | — |
+
+**Insight:** ~54% reportam algum grau de fome. Padrão: fome após a última refeição (antes de dormir).
+
+**Ação padrão quando há fome:**
+1. Redistribuir carbs (mais no jantar/ceia)
+2. Aumentar fibras na última refeição
+3. Se persistir: +100-200 kcal via gordura + fibra
+
+---
+
+## 7. Distribuição de Feedbacks por Consultoria
+
+| Consultoria | N feedbacks (amostra 20) | % |
+|-------------|-------------------------|---|
+| gnomo | 12 | 60% |
+| pantera | 4 | 20% |
+| tenente-breno | 2 | 10% |
+| cabo-gabriel | 2 | 10% |
+
+**Insight:** Gnomo domina a amostra (60%). Análise pode ter viés para o perfil de aluno do Gnomo.
+
+---
+
+## 8. Padrões de Ajuste Identificados
+
+### Na Dieta
+| Mudança mais comum | Frequência | Motivo |
+|--------------------|-----------|--------|
+| Ajuste de calorias totais | Alta | Peso não se movendo conforme objetivo |
+| Troca de alimentos | Média | Aluno não gosta ou não encontra |
+| Redistribuição de refeições | Baixa | Mudança de horário de treino |
+
+### No Treino
+| Mudança mais comum | Frequência | Motivo |
+|--------------------|-----------|--------|
+| Troca de exercícios isoladores | Alta | Estagnação ou monotonia |
+| Adaptação por dor/lesão | Média | Nova dor reportada |
+| Mudança de divisão | Baixa | Mudança de frequência semanal |
+
+---
+
+## 9. Regras Extraídas dos Feedbacks (para o agent aplicar)
+
+### REGRA F1: Aluno com aderência à dieta < 100%
+→ Antes de ajustar macros, perguntar QUAIS refeições não está conseguindo seguir e POR QUÊ
+
+### REGRA F2: Aluno ganhando > 2kg/mês em bulking
+→ Possível excesso de gordura. Reduzir superávit em 5% e monitorar no próximo ciclo
+
+### REGRA F3: Aluno perdendo < 0.5kg/mês em emagrecimento
+→ Possível platô ou baixa aderência. Primeiro verificar aderência, depois aumentar déficit em 10%
+
+### REGRA F4: Dor muscular nos primeiros dias (DOMS)
+→ NÃO é motivo para trocar exercício. Informar que é normal e deve passar em 1-2 semanas
+
+### REGRA F5: Dor articular durante exercício específico
+→ SUBSTITUIR exercício imediatamente + recomendar fisioterapeuta
+
+### REGRA F6: Fome após última refeição
+→ Redistribuir carbs para jantar/ceia. Incluir fibras (aveia, brócolis). Considerar +100kcal se persistir
+
+### REGRA F7: Aluno questiona se é IA
+→ RED FLAG de retenção. Resposta deve incluir observação PERSONALIZADA sobre o progresso (citar dados específicos, nome, evolução de peso, mudanças visuais)
+
+---
+
+## 10. Dados que FALTAM nos Feedbacks Atuais
+
+O formulário atual de feedback NÃO coleta alguns dados críticos para decisão:
+
+| Dado faltante | Por que é importante | Impacto |
+|---------------|---------------------|---------|
+| **Sono (horas/noite)** | Afeta recuperação e resultado | Agent não consegue ajustar volume de treino |
+| **Nível de estresse** | Estresse alto = cortisol = retenção | Agent não sabe se deve reduzir volume |
+| **Foto de evolução** | Análise visual complementa peso | Agent decide só por número da balança |
+| **Dias reais de treino** | Aderência declarada ≠ real | Agent pode estar superestimando compliance |
+
+**Recomendação:** Incluir estes 4 campos no formulário de feedback/reavaliação.
+
+---
+
+**Versão:** 2.0 (reescrito — versão anterior estava com dados truncados/corrompidos)
+**Última Atualização:** 2026-02-23
+**Status:** Documento ativo — atualizar a cada batch de novos feedbacks processados

@@ -162,5 +162,48 @@ Kcal_total = (Proteína_g × 4) + (Carboidrato_g × 4) + (Gordura_g × 9)
 | < 18.5 | Bulking obrigatório, mín +20% TDEE |
 | 18.5-24.9 | Normal |
 | 25-29.9 | Sobrepeso — se objetivo é bulking, limitar superávit a +10% |
-| 30-34.9 | Obesidade I — déficit máx -25%, proteína alta |
-| ≥ 35 | Obesidade II+ — usar Mifflin-St Jeor, encaminhar médico |
+| 30-34.9 | Obesidade I — déficit máx -25%, proteína alta. **Usar Peso Ajustado** |
+| ≥ 35 | Obesidade II+ — usar Mifflin-St Jeor, encaminhar médico. **Usar Peso Ajustado** |
+
+## 8. Peso Ajustado para Obesos (IMC > 30)
+
+### Por que usar
+Quando o paciente tem IMC > 30, usar o peso total para calcular macros gera valores excessivos e irreais. Exemplo: paciente com 130kg a 2.0 g/kg de proteína = 260g — caro, desnecessário e difícil de atingir.
+
+O peso ajustado corrige isso usando uma proporção entre o peso ideal e o peso real.
+
+### Fórmula
+
+```
+Peso_ideal = 22 × (altura_m)²
+Peso_ajustado = Peso_ideal + 0.25 × (Peso_real - Peso_ideal)
+```
+
+> O fator 0.25 significa que consideramos 25% do excesso de peso como metabolicamente ativo (tecido adiposo tem baixa demanda proteica).
+> Referência: Adaptação de Adjusted Body Weight (ABW) — National Kidney Foundation, aplicada em nutrição esportiva.
+
+### Exemplo Prático
+
+```
+Paciente: 130kg, 1.75m
+Peso_ideal = 22 × (1.75)² = 22 × 3.0625 = 67.4kg
+Peso_ajustado = 67.4 + 0.25 × (130 - 67.4) = 67.4 + 15.65 = 83.0kg
+
+Proteína com peso total:    130 × 2.0 = 260g ❌ (excessivo)
+Proteína com peso ajustado:  83 × 2.0 = 166g ✅ (adequado)
+```
+
+### Quando aplicar
+
+| IMC | Peso para cálculo de macros | Peso para cálculo de TMB |
+|-----|---------------------------|-------------------------|
+| < 30 | Peso real | Peso real |
+| 30-35 | Peso ajustado | Peso real (Harris-Benedict) |
+| > 35 | Peso ajustado | Peso real (Mifflin-St Jeor) |
+
+### Regras
+1. **TMB sempre usa peso real** — a fórmula já leva em conta composição corporal
+2. **Macros (g/kg) usam peso ajustado** quando IMC > 30
+3. **Hidratação usa peso real** — gordura também precisa de água
+4. **Creatina usa peso ajustado** — dose é relativa a massa metabolicamente ativa
+5. Se paciente está em bulking com IMC 30-35, usar peso ajustado e limitar superávit a +5-10%

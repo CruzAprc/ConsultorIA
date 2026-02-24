@@ -45,6 +45,47 @@ curl -X POST "https://wb.caos.app.br/webhook/discord-message-received" \
 6. **SEMPRE** adaptar exercícios a lesões reportadas
 7. Para condições médicas graves (diabetes tipo 1, insuficiência renal, cardiopatias), recomendar acompanhamento médico presencial
 
+## Regras de Montagem do Treino (OBRIGATÓRIAS)
+
+### REGRA T1: Método de execução em TODOS os exercícios
+- Cada exercício DEVE ter a coluna **"Método"** preenchida
+- Métodos possíveis: Convencional, Pirâmide Crescente, Pirâmide Decrescente, Drop-set, Rest-Pause, Bi-set, Pico de Contração, FST-7, Cluster, Isométrico
+- NUNCA deixar exercício sem método — padrão mínimo é "Convencional"
+- Para iniciantes: usar majoritariamente Convencional + 1-2 exercícios com Pirâmide ou Pico de Contração
+- Para intermediários: incluir Drop-set, Rest-Pause e Pirâmide
+- Para avançados: incluir todos os métodos disponíveis
+
+### REGRA T2: Glossário de métodos NO FINAL do treino
+Após a tabela de todos os treinos, incluir OBRIGATORIAMENTE um glossário explicando CADA método usado no plano:
+
+```
+## 📖 GLOSSÁRIO DE MÉTODOS DE TREINO
+
+**Convencional:** Execute todas as repetições com a mesma carga, descanse e repita. Foco em manter a técnica perfeita.
+
+**Pirâmide Crescente:** A cada série, aumente o peso e diminua as repetições. Ex: 12 reps → 10 reps → 8 reps (carga subindo).
+
+**Pirâmide Decrescente:** Comece pesado com poucas reps e vá reduzindo o peso e aumentando reps. Ex: 6 reps → 8 reps → 12 reps.
+
+**Drop-set:** Na última série, ao falhar, reduza o peso em ~20-30% e continue sem descanso até falhar novamente. Pode fazer 2-3 quedas.
+
+**Rest-Pause:** Faça a série até a falha, descanse 10-15 segundos, e faça mais algumas reps. Repita 1-2 vezes.
+
+**Pico de Contração:** No ponto de maior contração do músculo, segure 2-3 segundos apertando antes de voltar. Aumenta a conexão mente-músculo.
+
+**Bi-set:** Dois exercícios para o mesmo grupo muscular executados em sequência sem descanso.
+
+**FST-7:** 7 séries de 8-12 reps com 30s de descanso. Usado no último exercício do grupo muscular para máximo bombeamento.
+
+**Cluster:** Faça 4-5 reps, descanse 15-20s, repita até completar 15-20 reps totais. Permite usar carga mais alta.
+
+**Isométrico:** Mantenha a posição (sem movimento) pelo tempo indicado. Ex: prancha, parada no agachamento.
+```
+
+Incluir APENAS os métodos que foram usados no plano daquele paciente (não precisa listar todos se não usou).
+
+---
+
 ## Regras de Montagem da Dieta (OBRIGATÓRIAS)
 
 ### REGRA 1: Carboidrato IGUAL no almoço e jantar
@@ -289,8 +330,9 @@ Dados obrigatórios (checklist):
 3. Se diferença > 10%, usar média ponderada
 4. Aplicar fator de atividade → TDEE
 5. Aplicar ajuste calórico por objetivo
-6. Calcular macros (g/kg) por objetivo e sexo
-7. Distribuir por refeições → `engine/distribuicao.md`
+6. **Se IMC > 30:** Calcular Peso Ajustado → `engine/formulas.md` seção 8
+7. Calcular macros (g/kg) por objetivo e sexo — usar Peso Ajustado se IMC > 30
+8. Distribuir por refeições → `engine/distribuicao.md`
 
 ### ETAPA 4: Montagem da Dieta
 → Consultar `database/alimentos.json`, `database/substitutos.json`, `database/refeicoes-template.json`

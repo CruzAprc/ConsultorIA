@@ -1,6 +1,9 @@
 # Árvore de Decisão: Anamnese → Prescrição
 
-## 1. Objetivo → Macros (Regras Extraídas)
+> **IMPORTANTE:** As 11 categorias abaixo são as mesmas de `decisao/triagem.md`. A normalização dos 60+ objetivos raw deve seguir o mapa de triagem.
+> **IMPORTANTE:** Para pacientes com IMC > 30, usar **Peso Ajustado** para cálculo de macros (g/kg). Ver `engine/formulas.md` seção 8.
+
+## 1. Objetivo → Macros (Regras Extraídas — 11 Categorias)
 
 ### Bulking (n=1127)
 - **Proteína:** 2.12 g/kg (range: 0.80-3.02)
@@ -78,6 +81,20 @@
 - **Carboidrato:** 3.70 g/kg (range: 2.90-4.76)
 - **Kcal total:** 2560 (range: 2270-2900)
 - **Kcal/kg:** 29.6
+
+### Recomposição (n=4)
+- **Proteína:** 2.00 g/kg (range: 2.00-2.00)
+- **Gordura:** 0.69 g/kg (range: 0.56-0.80)
+- **Carboidrato:** 3.62 g/kg (range: 3.30-3.90)
+- **Kcal total:** 2678 (range: 2300-3050)
+- **Kcal/kg:** 29.4
+
+### Manutenção (sem dados suficientes — referência literatura)
+- **Proteína:** 1.80 g/kg
+- **Gordura:** 0.80 g/kg
+- **Carboidrato:** 4.00 g/kg
+- **Kcal total:** TDEE × 1.0
+- **Kcal/kg:** ~33
 
 ## 2. Objetivo + Experiência → Divisão de Treino
 

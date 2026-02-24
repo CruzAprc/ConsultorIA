@@ -2,32 +2,100 @@
 
 ## 1. Normalização de Objetivos
 
-Os 60+ objetivos da base devem ser normalizados para 5 categorias:
+Os 60+ objetivos da base devem ser normalizados para **11 categorias**, cada uma com macros validados contra os dados reais de 3.106 consultorias.
 
-### BULKING (superávit calórico + hipertrofia)
-Inclui: Bulking, Ganho de massa muscular, Ganho de peso, Ganhar peso, Hipertrofia, Ganho de massa, Bulking limpo, Crescer limpo, Ganho de Massa - Hipertrofia, Ganho de volume seco, Hipertrofia e ganho de massa, Melhorar o físico, Ganho de massa muscular limpa, Competir/Bulking
-- **Critério:** quer aumentar peso e/ou massa muscular
-- **Macros:** alta proteína (2.0-2.2 g/kg), alto carb (5.0-6.0 g/kg)
+### 1. BULKING (n=1127)
+**Inclui:** Bulking, Bulking limpo, Bulking com controle de gordura, Bulking com definição, Crescer limpo, Competir/Bulking, Melhorar o físico, Ganho de Volume seco
+- **Critério:** quer superávit calórico com foco em ganho de massa
+- **Macros (dados reais):** Prot 2.12 g/kg | Gord 0.96 g/kg | Carb 5.52 g/kg | ~41 kcal/kg
+- **Kcal médio:** 3149 kcal
 
-### CUTTING (déficit controlado + preservação muscular)
-Inclui: Cutting, Definição muscular, Secar, Hipertrofia e definição, Definir, Recomposição, Recomposição corporal, Ganho de massa e perda de gordura, Hipertrofia e redução do BF, Definição Muscular (Cutting), Secar e ter um shape foda, Hipertrofia e perda de gordura
-- **Critério:** quer definir mantendo massa. Já tem base muscular.
-- **Macros:** alta proteína (1.8-2.0 g/kg), carb moderado (2.5-3.5 g/kg)
+### 2. EMAGRECIMENTO (n=848)
+**Inclui:** Emagrecimento, Emagrecimento e definição, Emagrecimento e perda de gordura, Emagrecimento + Hipertrofia, Emagrecimento e hipertrofia, Emagrecimento/ganho de massa, Emagrecimento e Ganho de Massa, Emagrecimento e ganho de massa muscular
+- **Critério:** quer perder peso/gordura como prioridade principal
+- **Macros (dados reais):** Prot 1.61 g/kg | Gord 0.53 g/kg | Carb 2.55 g/kg | ~25 kcal/kg
+- **Kcal médio:** 2013 kcal
 
-### EMAGRECIMENTO (déficit significativo)
-Inclui: Emagrecimento, Perda de peso, Perder peso, Emagrecimento e definição, Emagrecimento e perda de gordura, Perda de gordura, Redução de gordura
-- **Critério:** quer perder peso/gordura como prioridade
-- **Macros:** proteína moderada-alta (1.5-1.8 g/kg), carb baixo-moderado (2.0-2.8 g/kg)
+### 3. CUTTING (n=251)
+**Inclui:** Cutting, Definição muscular (Cutting)
+- **Critério:** déficit controlado, JÁ tem base muscular e quer preservar
+- **Macros (dados reais):** Prot 1.87 g/kg | Gord 0.57 g/kg | Carb 2.73 g/kg | ~24.7 kcal/kg
+- **Kcal médio:** 2141 kcal
 
-### MANUTENÇÃO (equilíbrio)
-Inclui: Manutenção, Recuperação
-- **Critério:** satisfeito com o peso, quer manter
-- **Macros:** proteína moderada (1.8 g/kg), carb moderado (3.5-4.5 g/kg)
+### 4. DEFINIÇÃO MUSCULAR (n=229)
+**Inclui:** Definição muscular, Definição Muscular, Definir, Definir o corpo e ganhar massa muscular, Definir ganhando massa muscular e perdendo gordura, Definir o corpo ganhar músculo e abaixar a porcentagem de gordura, Aumento de massa muscular e definição, Ganho de massa / definição
+- **Critério:** quer melhorar visual (separação muscular, reduzir gordura subcutânea) sem foco em peso na balança
+- **Macros (dados reais):** Prot 1.86 g/kg | Gord 0.63 g/kg | Carb 3.47 g/kg | ~28.1 kcal/kg
+- **Kcal médio:** 2505 kcal
 
-### RECOMPOSIÇÃO (déficit leve + hipertrofia)
-Inclui: Recomposição, Recomposição corporal, Recomposição muscular, Emagrecimento e ganho de massa, Ganho de massa e perda de gordura (quando iniciante)
-- **Critério:** quer perder gordura E ganhar músculo (possível em iniciantes e retornantes)
-- **Macros:** alta proteína (2.0 g/kg), carb moderado (3.0-4.0 g/kg)
+### 5. PERDA DE PESO (n=194)
+**Inclui:** Perda de peso, Perda de gordura, Perda de gordura localizada + ganho de massa magra, Redução de Gordura e Ganho de Massa, Ganho de Massa com redução do percentual de gordura
+- **Critério:** foco em ver número da balança cair. Geralmente IMC mais alto.
+- **Macros (dados reais):** Prot 1.60 g/kg | Gord 0.51 g/kg | Carb 2.57 g/kg | ~22.3 kcal/kg
+- **Kcal médio:** 2051 kcal
+
+### 6. GANHO DE MASSA MUSCULAR (n=81)
+**Inclui:** Ganho de massa muscular, Ganho de massa muscular limpa, Ganho de massa muscular e perda de gordura, Ganho de massa muscular e perder gordura, Ganho de massa, Ganho de Massa, Ganho de Massa - Hipertrofia, Ganho de massa magra, Ganho de massa magra e perda de gordura, Ganhar massa magra, Ganho de massa perda de gordura, Ganhar massa e perder peso
+- **Critério:** quer ganhar músculo de forma direcionada, pode aceitar leve superávit
+- **Macros (dados reais):** Prot 2.03 g/kg | Gord 0.92 g/kg | Carb 5.18 g/kg | ~39.4 kcal/kg
+- **Kcal médio:** 3022 kcal
+
+### 7. PERDER PESO (n=79)
+**Inclui:** Perder peso
+- **Critério:** linguagem mais informal, mesmo objetivo que Perda de peso mas com macros ligeiramente diferentes (proteína mais baixa, déficit mais agressivo)
+- **Macros (dados reais):** Prot 1.53 g/kg | Gord 0.53 g/kg | Carb 2.49 g/kg | ~21.5 kcal/kg
+- **Kcal médio:** 1952 kcal
+- **Nota:** Se o paciente diz "perder peso" vs "perda de peso", usar esta categoria. O déficit é ~5% maior.
+
+### 8. HIPERTROFIA (n=20)
+**Inclui:** Hipertrofia, Hipertrofia Muscular, Hipertrofia e definição, Hipertrofia e ganho de massa, Hipertrofia e perda de percentual de gordura, Hipertrofia e redução do BF, Hipertrofia perdendo gordura, Hipertrofia e definição muscular, Hipertrofia e diminuição de gordura abdominal, Hipertrofia e Força
+- **Critério:** foco técnico em hipertrofia, geralmente intermediário/avançado que usa o termo correto
+- **Macros (dados reais):** Prot 2.05 g/kg | Gord 0.87 g/kg | Carb 4.95 g/kg | ~37 kcal/kg
+- **Kcal médio:** 3090 kcal
+
+### 9. GANHAR PESO (n=7)
+**Inclui:** Ganhar peso, Ganho de peso (n=5)
+- **Critério:** ectomorfo ou muito magro, quer subir número na balança. Superávit mais agressivo que Bulking.
+- **Macros (dados reais):** Prot 2.00 g/kg | Gord 1.02 g/kg | Carb 6.31 g/kg | ~46.4 kcal/kg
+- **Kcal médio:** 3124 kcal
+- **Nota:** Superávit mais alto que Bulking (~46 vs ~41 kcal/kg). Usado pra quem é muito magro e precisa ganhar peso urgente.
+
+### 10. SECAR (n=6)
+**Inclui:** Secar, Secar e ter um shape foda, Secar ganhar massa muscular e focar mais em aumentar as pernas
+- **Critério:** linguagem de quem quer resultado visual rápido, entre cutting e definição
+- **Macros (dados reais):** Prot 1.92 g/kg | Gord 0.63 g/kg | Carb 3.70 g/kg | ~29.6 kcal/kg
+- **Kcal médio:** 2560 kcal
+
+### 11. RECOMPOSIÇÃO (n=4)
+**Inclui:** Recomposição, Recomposição corporal, Recomposição muscular
+- **Critério:** quer perder gordura E ganhar músculo simultaneamente. Possível em iniciantes, retornantes e quem usa ergogênicos.
+- **Macros (dados reais):** Prot 2.00 g/kg | Gord 0.69 g/kg | Carb 3.62 g/kg | ~29.4 kcal/kg
+- **Kcal médio:** 2678 kcal
+
+### + MANUTENÇÃO (sem dados suficientes na base)
+**Inclui:** Manutenção, Recuperação
+- **Critério:** satisfeito com o peso, quer manter composição corporal
+- **Macros (referência literatura):** Prot 1.8 g/kg | Gord 0.7-0.9 g/kg | Carb 3.5-4.5 g/kg
+- **Kcal:** TDEE × 1.0 (sem ajuste)
+
+---
+
+### Tabela Resumo — 11 Categorias + Manutenção
+
+| # | Categoria | N | Prot g/kg | Gord g/kg | Carb g/kg | Kcal/kg | Kcal médio |
+|---|-----------|---|-----------|-----------|-----------|---------|------------|
+| 1 | Bulking | 1127 | 2.12 | 0.96 | 5.52 | 41.0 | 3149 |
+| 2 | Emagrecimento | 848 | 1.61 | 0.53 | 2.55 | 25.0 | 2013 |
+| 3 | Cutting | 251 | 1.87 | 0.57 | 2.73 | 24.7 | 2141 |
+| 4 | Definição muscular | 229 | 1.86 | 0.63 | 3.47 | 28.1 | 2505 |
+| 5 | Perda de peso | 194 | 1.60 | 0.51 | 2.57 | 22.3 | 2051 |
+| 6 | Ganho de massa | 81 | 2.03 | 0.92 | 5.18 | 39.4 | 3022 |
+| 7 | Perder peso | 79 | 1.53 | 0.53 | 2.49 | 21.5 | 1952 |
+| 8 | Hipertrofia | 20 | 2.05 | 0.87 | 4.95 | 37.0 | 3090 |
+| 9 | Ganhar peso | 12 | 2.00 | 1.01 | 6.29 | 45.9 | 3135 |
+| 10 | Secar | 6 | 1.92 | 0.63 | 3.70 | 29.6 | 2560 |
+| 11 | Recomposição | 4 | 2.00 | 0.69 | 3.62 | 29.4 | 2678 |
+| — | Manutenção | — | 1.80 | 0.80 | 4.00 | ~33 | TDEE |
 
 ## 2. Classificação por Nível
 
