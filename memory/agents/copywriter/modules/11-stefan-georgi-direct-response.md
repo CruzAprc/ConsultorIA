@@ -1,0 +1,1 @@
+/Users/pedrocruz/clawd/memory/agents/copywriter/modules/11-stefan-georgi-direct-response.md

@@ -1,0 +1,1 @@
+/Users/pedrocruz/clawd/memory/CLAUDE.md

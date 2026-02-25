@@ -1,0 +1,1 @@
+/Users/pedrocruz/clawd/memory/agents/copywriter/modules/05-atencao.md

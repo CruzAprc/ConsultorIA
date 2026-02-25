@@ -1,0 +1,1 @@
+/Users/pedrocruz/clawd/memory/memoria/patterns/landing-page-saas.md

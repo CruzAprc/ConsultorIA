@@ -1,0 +1,1 @@
+/Users/pedrocruz/clawd/memory/agents/kallaway/psychology-tactics.md
