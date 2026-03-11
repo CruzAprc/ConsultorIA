@@ -16,5 +16,8 @@
 - `memory/memoria/patterns/headlines.md`
 - `memory/memoria/patterns/vsl.md`
 
+## ConsultorIA (dieta + treino)
+- `memory/agents/consultoria-agent/regras-dieta.md` — regras obrigatórias de montagem (arroz branco, legumes/salada separados, salada à vontade)
+
 ## Kallaway (social content)
 - `memory/agents/kallaway/` (5 arquivos)
