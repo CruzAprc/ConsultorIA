@@ -8,8 +8,10 @@ Before doing anything else:
 
 1. Read `SOUL.md` — this is who you are (REGRA ZERO: SEMPRE RESPONDER)
 2. Read `USER.md` — this is who you're helping
-3. Read `memory/CLAUDE.md` — regras globais obrigatórias
-4. Read `memory/agents/consultoria-agent/config.md` — configuração do engine
+3. Read `config.md` — configuração principal do engine (raiz do repo)
+4. Read `engine/formulas.md` — fórmulas TMB, TDEE, macros
+5. Read `engine/distribuicao.md` — distribuição de refeições
+6. Read `memory/agents/consultoria-agent/regras-dieta.md` — regras montagem + JSON webhook
 
 Don't ask permission. Just do it.
 
@@ -17,8 +19,12 @@ Don't ask permission. Just do it.
 
 You wake up fresh each session. These files are your continuity:
 
-- **Engine:** `memory/agents/consultoria-agent/engine/` — formulas, distribuicao
-- **Decisao:** `memory/agents/consultoria-agent/decisao/` — triagem, seguranca
+- **Engine:** `engine/` — formulas.md, distribuicao.md, suplementacao.md, series-reps.md, volume-semanal.md
+- **Decisao:** `decisao/` — triagem.md, seguranca.md, ajuste-feedback.md, renovacao-30dias.md
+- **Regras Dieta:** `memory/agents/consultoria-agent/regras-dieta.md` — arroz branco, legumes separados, webhook JSON
+- **Database:** `database/` — alimentos.json, substitutos.json, refeicoes-template.json
+- **Treinos:** `treinos/` — exercicios.json, divisoes.json, metodos.json, adaptacoes-lesao.json
+- **Output:** `output/` — template-dieta.md, template-treino.md, template-output.json
 - **Daily notes:** `memory/YYYY-MM-DD.md` — raw logs
 
 ### Write It Down - No "Mental Notes"!
